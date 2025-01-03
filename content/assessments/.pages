@@ -1,0 +1,5 @@
+nav:
+    - index.md
+    - Assignments: assignments
+    - Quizzes: quizzes
+    - Project: project

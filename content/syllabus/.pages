@@ -1,0 +1,9 @@
+nav:
+    - index.md
+    - Course philosophy: philosophy.md
+    - Outcomes: outcomes.md
+    - Schedule: schedule.md
+    - Grading: grading.md
+    - Attendance: attendance.md
+    - Policies: policies.md
+    - ...

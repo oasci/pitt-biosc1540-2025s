@@ -1,0 +1,51 @@
+[project]
+authors = ["OASCI <us@oasci.org>"]
+channels = ["conda-forge"]
+description = ""
+name = "pitt-biosc1540-2025s"
+platforms = ["win-64", "linux-64", "osx-64"]
+version = "2024.10.26"
+readme = "README.md"
+
+[pypi-dependencies]
+material-plausible-plugin = ">=0.2.0,<0.3"
+mkdocs-awesome-pages-plugin = ">=2.9.3,<3"
+mkdocs-print-site-plugin = ">=2.6.0,<3"
+
+
+[environments]
+sci = ["sci"]
+
+[system-requirements]
+
+[tasks]
+docs = { cmd = ["rm", "-rf", "./public/", "&&", "mkdocs", "build", "-d", "public/"] }
+serve = { cmd = ["mkdocs", "serve"] }
+
+[dependencies]
+python = ">=3.13.0,<4"
+gradescope-utils = ">=0.5.0,<0.6"
+mkdocs = ">=1.6.1,<2"
+mkdocs-material = ">=9.5.44,<10"
+pymdown-extensions = ">=10.12,<11"
+mkdocs-table-reader-plugin = ">=3.1.0,<4"
+mkdocstrings = ">=0.26.2,<0.27"
+mkdocstrings-python = ">=1.12.2,<2"
+mkdocs-gen-files = ">=0.4.0,<0.5"
+mkdocs-macros-plugin = ">=1.3.7,<2"
+mkdocs-jupyter = ">=0.25.0,<0.26"
+mkdocs-glightbox = ">=0.4.0,<0.5"
+mkdocs-git-revision-date-localized-plugin = ">=1.2.9,<2"
+
+[feature.sci.dependencies]
+jupyterlab = ">=4.2.5,<5"
+matplotlib = ">=3.9.2,<4"
+numpy = ">=2.1.2,<3"
+seaborn = ">=0.13.2,<0.14"
+scikit-learn = ">=1.5.2,<2"
+openpyxl = ">=3.1.5,<4"
+beautifulsoup4 = ">=4.12.3,<5"
+pandas = ">=2.2.3,<3"
+scipy = ">=1.14.1,<2"
+rdkit = ">=2024.9.3,<2025"
+py3dmol = ">=2.4.2,<3"
