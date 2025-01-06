@@ -1,6 +1,6 @@
 <h1 style="margin-bottom: 0.4em; text-align: center;">
     <b>Lecture 12B</b><br>
-    Atomistic insights
+    Docking
 </h1>
 <h2 style="margin-top: 0.0em; text-align: center;">
     Methodology
@@ -13,31 +13,25 @@
 
     This page is a work in progress and is subject to change at any moment.
 
-This final lecture in the MD series focuses on the analysis and interpretation of MD simulation data.
-We'll explore common analysis techniques and how to extract meaningful biological insights from simulation trajectories.
+This lecture delves into molecular docking and virtual screening, essential techniques in computational drug discovery.
+The session will cover different docking algorithms, scoring functions, and strategies for improving virtual screening efficiency and accuracy.
 
 ## Learning objectives
 
-After today, you should better understand:
+After today, you should have a better understanding of:
 
-1.  Molecular ensembles and their relevance.
-2.  Maintaining thermodynamic equilibrium.
-3.  Relaxation and production MD simulations.
-4.  RMSD and RMSF as conformational changes and flexibility metrics.
-5.  Relationship between probability and energy in simulations.
+1.  Practical limitations of alchemical simulations.
+2.  Value of data-driven approaches for docking.
+3.  Identifying relevant protein conformations.
+4.  Detecting binding pockets.
+5.  Ligand pose optimization.
+6.  Scoring functions as data-driven predictors.
+7.  Interpretation of docking results.
 
-## Readings
+<!-- ## Presentation
 
-Relevant content for today's lecture.
+-   **View:** [slides.com/aalexmmaldonado/biosc1540-l17](https://slides.com/aalexmmaldonado/biosc1540-l17)
+-   **Live link:** [slides.com/d/LPBvUgQ/live](https://slides.com/d/LPBvUgQ/live)
+-   **Download:** [biosc1540-l17.pdf](/lectures/17/biosc1540-l17.pdf)
 
--   Any scientific literature.
-
-
-What you should be able to do after today's lecture:
-
-1.  Drug development pipeline.
-2.  Role of structure-based drug design.
-3.  Thermodynamics of binding.
-4.  Enthalpic contributions to binding.
-5.  Entropic contributions to binding
-6.  Alchemical free energy simulations
+<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l17/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 17" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->

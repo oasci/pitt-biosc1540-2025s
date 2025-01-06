@@ -1,6 +1,14 @@
 # Lectures
 
-To support incremental learning and minimize cognitive overload, this course is organized into two complementary types of lectures each week.
+To promote incremental learning and reduce cognitive overload, this course features two distinct types of lectures each week: Foundations and Methods.
+
+This structured weekly approach aims to:
+
+-   Reduce cognitive overload by separating theoretical concepts from practical applications.
+-   Strengthen the connection between foundational knowledge and hands-on computational practice.
+-   Provide students with both a solid conceptual understanding and the technical skills necessary for success in computational biology.
+
+Students are expected to engage with material from both lecture types and complete assignments that integrate foundational theory with computational applications.
 
 ## Foundations (Tuesdays)
 
@@ -23,13 +31,3 @@ These sessions emphasize:
 -   **Problem-solving skills**: Guiding students through practical exercises to reinforce learning and develop proficiency in computational tools.
 
 By separating foundational knowledge from technical implementation, this structure allows students to engage deeply with each aspect of the material while ensuring that concepts and skills build upon one another.
-
-## Why this structure?
-
-This two-part weekly approach is designed to:
-
--   Minimize cognitive overload by focusing on different aspects of the material in distinct sessions.
--   Foster a stronger connection between theory and practice by bridging foundational knowledge with hands-on computation.
--   Equip students with both the conceptual framework and technical skills needed to succeed in computational biology.
-
-Students are expected to review material from both sessions and complete assignments that integrate foundational concepts with computational applications.

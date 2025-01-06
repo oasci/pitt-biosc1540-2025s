@@ -1,0 +1,6 @@
+nav:
+    - Project: index.md
+    - Genomics: genomics
+    - Transcriptomics: transcriptomics
+    - Protein structure: protein-structure
+    - "Computer-aided drug design": cadd

@@ -63,7 +63,7 @@ For example, if you submit 7 out of 8 assignments on time, you would receive a 1
 Meaning if your final grade is 89.0% (B+), this bonus will bump your final grade to 90.75% (A&ndash;).
 This bonus can help improve your final grade, but please note that I will not round up final grades.
 
-## Grading Policy for Quizzes
+## Quiz makeups
 
 Attendance and participation in all scheduled quizzes are essential for your success in this course.
 However, we understand that unforeseen circumstances may arise.
