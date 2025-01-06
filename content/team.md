@@ -6,7 +6,7 @@
 
 **Address me as:** Alex (preferred), Dr. Maldonado, Dr. Alex, Dr. M.
 
-**Pronouns:** he/him/his
+**Pronouns:** he/him
 
 **Major:** BSE (Western Michigan University) and PhD in Chemical Engineering (University of Pittsburgh)
 
@@ -19,8 +19,7 @@ I generally respond within 12 hours.
 
 | Day | Time | Location |
 | --- | ---- | -------- |
-| Tuesday | 11:30 am - 12:30 pm | 102 Clapp Hall |
-| Thursday | 11:30 am - 12:30 pm | 315 Clapp Hall |
+| ??? | ??? | ??? |
 
 **Office:** 103 Clapp Hall
 
@@ -28,7 +27,7 @@ I generally respond within 12 hours.
 
 **Ask me about . . .** [recent films I've watched][letterboxd], my favorite Pittsburgh restaurants, my cat, my [Spotify On Repeat](https://open.spotify.com/playlist/37i9dQZF1EpsRmc43CDLAh?si=426336689c744316).
 
-**Research . . .** <u>Undergraduate</u>: immunodiagnostics <u>Graduate</u>: quantum chemistry, machine learning, molecular simulations <u>Postdoc</u>: force field parameterization, protein-ligand binding, drug discovery.
+**Research . . .** <u>Undergraduate</u>: immunodiagnostics <u>Graduate</u>: quantum chemistry, machine learning, molecular simulations <u>Postdoc</u>: software development, force field parameterization, protein-ligand binding, drug discovery.
 
 [letterboxd]: https://letterboxd.com/aalexmmaldonado/films/by/date/size/large/
 [alex-calendar]: https://app.cal.com/alexmaldonado/class
@@ -37,11 +36,51 @@ I generally respond within 12 hours.
 
 Contact information can be found on [Canvas][canvas].
 
+### Caelyn Peppler
+
+**Pronouns:** ???
+
+**Major:** ???
+
+**Level:** ???
+
+**Office hours:** ???
+
+**Ask me about** ???
+
+**Career trajectory** ???
+
+### César Guerra-Solano
+
+**Pronouns:** he/him
+
+**Major:** ???
+
+**Level:** ???
+
+**Office hours:** ???
+
+**Ask me about** ???
+
+**Career trajectory** ???
+
+### Jay Grimsdall
+
+**Pronouns:** he/they
+
+**Major:** ???
+
+**Level:** ???
+
+**Office hours:** ???
+
+**Ask me about** ???
+
+**Career trajectory** ???
+
 ### Justine Denby
 
-**Address me as:** Justine
-
-**Pronouns:** she/her/hers
+**Pronouns:** she/her
 
 **Major:** Computational Biology
 
@@ -52,6 +91,48 @@ Contact information can be found on [Canvas][canvas].
 **Ask me about** Working out, climbing, music, video games, and reading!
 
 **Career trajectory** PhD and industry
+
+### Mariska Goswami
+
+**Pronouns:** she/her
+
+**Major:** ???
+
+**Level:** ???
+
+**Office hours:** ???
+
+**Ask me about** ???
+
+**Career trajectory** ???
+
+### Priyam Chauhan
+
+**Pronouns:** she/her
+
+**Major:** ???
+
+**Level:** ???
+
+**Office hours:** ???
+
+**Ask me about** ???
+
+**Career trajectory** ???
+
+### Rushali Patel
+
+**Pronouns:** she/her
+
+**Major:** ???
+
+**Level:** ???
+
+**Office hours:** ???
+
+**Ask me about** ???
+
+**Career trajectory** ???
 
 <!-- LINKS -->
 
