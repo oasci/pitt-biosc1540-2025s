@@ -1,6 +1,10 @@
-<h1 align="center">
-P04B
+<h1 style="margin-bottom: 0.4em; text-align: center;">
+    <b>Project 4</b><br>
+    Assignment B
 </h1>
+<h2 style="margin-top: 0.0em; text-align: center;">
+    Cheminformatics
+</h2>
 
 <p style="text-align: center;">
     <object hspace="50">

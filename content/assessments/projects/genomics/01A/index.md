@@ -1,6 +1,10 @@
-<h1 align="center">
-P01A
+<h1 style="margin-bottom: 0.4em; text-align: center;">
+    <b>Project 1</b><br>
+    Assignment A
 </h1>
+<h2 style="margin-top: 0.0em; text-align: center;">
+    Python basics
+</h2>
 
 <p style="text-align: center;">
     <object hspace="50">

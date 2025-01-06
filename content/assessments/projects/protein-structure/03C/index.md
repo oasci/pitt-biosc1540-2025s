@@ -1,6 +1,10 @@
-<h1 align="center">
-P03C
+<h1 style="margin-bottom: 0.4em; text-align: center;">
+    <b>Project 3</b><br>
+    Assignment C
 </h1>
+<h2 style="margin-top: 0.0em; text-align: center;">
+    Protein structure prediction
+</h2>
 
 <p style="text-align: center;">
     <object hspace="50">

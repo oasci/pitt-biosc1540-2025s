@@ -1,6 +1,10 @@
-<h1 align="center">
-P02C
+<h1 style="margin-bottom: 0.4em; text-align: center;">
+    <b>Project 2</b><br>
+    Assignment C
 </h1>
+<h2 style="margin-top: 0.0em; text-align: center;">
+    Differential gene expression
+</h2>
 
 <p style="text-align: center;">
     <object hspace="50">
