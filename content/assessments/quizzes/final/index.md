@@ -7,7 +7,7 @@
         <strong>When</strong></a>: Apr 28, 2024 from 4:00 - 5:50 pm
     </object>
     <object hspace="50">
-        <strong>Points</strong></a>: 80
+        <strong>Points</strong></a>: 20
     </object>
 </p>
 
