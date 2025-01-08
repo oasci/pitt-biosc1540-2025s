@@ -2,9 +2,6 @@
     <b>Lecture 01</b><br>
     Computational biology overview
 </h1>
-<h2 style="margin-top: 0.0em; text-align: center;">
-    Foundations
-</h2>
 <p style="text-align: center;">
     <b>Date:</b> Jan 9, 2024
 </p>
@@ -13,17 +10,18 @@
 
     This page is a work in progress and is subject to change at any moment.
 
-This inaugural lecture serves as a comprehensive introduction to the field of computational biology and establishes the framework for the course.
+This inaugural lecture serves as a broad introduction to the field of computational biology and establishes the framework for the course.
 
 ## Learning objectives
 
 What you should be able to do after today's lecture:
 
-1.  Describe the course structure, expectations, and available resources for success.
-2.  Define computational biology and explain its interdisciplinary nature.
-3.  Identify key applications and recent advancements.
-4.  Understand the balance between applications and development.
-5.  Identify potential career paths and educational opportunities.
+1.  Identify your teaching team.
+2.  Describe the course structure, expectations, and available resources for success.
+3.  Define computational biology and explain its interdisciplinary nature.
+4.  Identify key applications and recent advancements.
+5.  Understand the balance between applications and development.
+6.  Identify potential career paths and educational opportunities.
 
 <!-- ## Presentation
 
