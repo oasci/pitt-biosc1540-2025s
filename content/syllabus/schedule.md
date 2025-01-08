@@ -40,7 +40,7 @@ Afterwards, we will cover structure prediction, molecular simulations, and compu
 **Tuesday** (Jan 28) [**Lecture 04A**](../../lectures/04A/)
 
 -   <b>Topics:</b>  Genome annotation <span style="color: #B8B8B8;">(Foundations)</span>
--   Quiz ##
+-   Quiz 01
 
 **Thursday** (Jan 30) [**Lecture 04B**](../../lectures/04B/)
 
@@ -71,7 +71,7 @@ Afterwards, we will cover structure prediction, molecular simulations, and compu
 **Tuesday** (Feb 18) [**Lecture 07A**](../../lectures/07A/)
 
 -   <b>Topics:</b> Quantification <span style="color: #B8B8B8;">(Foundations)</span>
--   Quiz ##
+-   Quiz 02
 
 **Thursday** (Feb 20) [**Lecture 07B**](../../lectures/07B/)
 
@@ -110,7 +110,7 @@ No class on Mar 4 and 6.
 **Tuesday** (Mar 18) [**Lecture 10A**](../../lectures/10A/)
 
 -   <b>Topics:</b> Atomistic insight <span style="color: #B8B8B8;">(Foundations)</span>
--   Quiz ##
+-   Quiz 03
 
 **Thursday** (Mar 20) [**Lecture 10B**](../../lectures/10B/)
 
@@ -141,7 +141,7 @@ No class on Mar 4 and 6.
 **Tuesday** (Apr 8) [**Lecture 13A**](../../lectures/13A/)
 
 -   <b>Topics:</b> Cheminformatics <span style="color: #B8B8B8;">(Foundations)</span>
--   Quiz ##
+-   Quiz 04
 
 **Thursday** (Apr 10) [**Lecture 13B**](../../lectures/13B/)
 
@@ -167,4 +167,4 @@ No class on Mar 4 and 6.
 
 ## Final
 
-**???** (???) [**Final exam**](../assessments/quizzes/final/)
+**Monday** (Apr 28) [**Final exam**](../assessments/quizzes/final/) from 4:00 - 5:50 pm.

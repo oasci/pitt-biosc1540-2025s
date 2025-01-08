@@ -82,7 +82,7 @@ Instead, flexibility will be built into the grading system.
     -   Final exam: 0%
     -   Dropped grade: 0%
     -   Total quiz grade: (85 + 90 + 95 + 80)/4 = 87.5%
-    -   **Outcome:** Missing one quiz doesn’t negatively affect your average.
+    -   **Outcome:** Skipping the final does not negatively affect your average.
 
 2.  **Case 2: Took the Final Exam and Scored Higher**
     -   Quiz Grades: 70%, 75%, 65%, 80%
@@ -96,7 +96,7 @@ Instead, flexibility will be built into the grading system.
     -   Quiz grades: 88%, 90%, 85%, 92%
     -   Final exam: 80%
     -   Adjusted quiz grades: No replacement, as all quiz grades exceed the final exam.
-    -   Dropped grade: 85%
+    -   Dropped grade: 80%
     -   Total quiz grade: (88 + 90 + 85 + 92)/4 = 88.8%
     -   **Outcome:** The final exam does not lower your average if your quiz grades are already strong.
 
