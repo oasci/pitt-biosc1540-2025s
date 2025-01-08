@@ -39,29 +39,29 @@ It encourages timely submissions while acknowledging the influence of external c
 
 -   Each assignment has a specified due date and time.
 -   Assignments submitted after the due date will incur a late penalty.
--   The late penalty is calculated using the function: % Penalty = 0.01 (1.4 $\times$ hours late)<sup>2</sup> rounded to the nearest tenth.
+-   The late penalty is calculated using the function: % Penalty = 0.01 (2.083 $\times$ hours late)<sup>2</sup> rounded to the nearest tenth.
     This results in approximately:
 
     | Hours late | Penalty |
     | ---------- | ------- |
-    | 6 | 0.7% |
-    | 12 | 2.8% |
-    | 24 | 11.3% |
-    | 48 | 45.2% |
-    | 72 | 100.0% |
+    | 6 | 1.6% |
+    | 12 | 6.2% |
+    | 24 | 25.0% |
+    | 36 | 56.2% |
+    | 48 | 100.0% |
 
--   Assignments will not be accepted more than 72 hours (3 days) after the due date.
+-   Assignments will not be accepted more than 48 hours (2 days) after the due date.
 -   The penalty is applied to the assignment's total possible points.
-    For example, if an assignment is worth 100 points and is submitted 36 hours late, the penalty would be approximately 13 points.
+    For example, if an assignment is worth 100 points and is submitted 36 hours late, the penalty would be approximately 56.2 points.
 
-Exceptions to this policy will be made on a case-by-case basis for extenuating circumstances.
-Please communicate with me as early as possible if you anticipate difficulties meeting a deadline.
+No exceptions to this policy will be made.
 
-Submitting your assignments on time can earn you up to a 2% bonus added directly to your final grade.
+Submitting all assignments on time can earn you up to a 2% bonus added directly to your final grade.
 For each assignment you submit on time, you will receive a proportional percentage of this bonus.
 For example, if you submit 7 out of 8 assignments on time, you would receive a 1.75% boost to your final grade.
 Meaning if your final grade is 89.0% (B+), this bonus will bump your final grade to 90.75% (A&ndash;).
-This bonus can help improve your final grade, but please note that I will not round up final grades.
+
+Given that this bonus is automatically available to everyone, I will not provide an additional bump to your final grade.
 
 ## Quiz makeups
 
@@ -73,28 +73,31 @@ The following policy will apply to balance flexibility with maintaining academic
 Instead, flexibility will be built into the grading system.
 
 -   Your **lowest quiz grade will be dropped** automatically.
--   An **optional, cumulative final exam** will be available.
- This final exam can replace all quiz grades lower than your final score.
+-   The cumulative final exam will replace all quiz grades lower than your final score.
 
 **Examples:**
 
 1.  **Case 1: Missed a Quiz**
-    -   Quiz Grades: 85%, 90%, 0%, 80%
-    -   Dropped Grade: 0%
-    -   Final Quiz Average: (85 + 90 + 80)/3 = 85%
+    -   Quiz grades: 85%, 90%, 95%, 80%
+    -   Final exam: 0%
+    -   Dropped grade: 0%
+    -   Total quiz grade: (85 + 90 + 95 + 80)/4 = 87.5%
     -   **Outcome:** Missing one quiz doesn’t negatively affect your average.
 
 2.  **Case 2: Took the Final Exam and Scored Higher**
     -   Quiz Grades: 70%, 75%, 65%, 80%
-    -   Exam Grade: 78%
-    -   Final Quiz Average: (78 + 78 + 78 + 80)/4 = 78.5%
+    -   Final exam: 78%
+    -   Adjusted quiz grades: 78%, 78%, 78%, 80%
+    -   Dropped Grade: 78%
+    -   Total quiz grade: (78 + 78 + 78 + 80)/4 = 78.5%
     -   **Outcome:** The final exam improved your overall quiz average.
 
 3.  **Case 3: All Quiz Grades Above the Final Exam**
-    -   Quiz Grades: 88%, 90%, 85%, 92%
-    -   Final Exam Grade: 80%
-    -   Adjusted Quiz Grades: No replacement, as all quiz grades exceed the final exam.
-    -   Final Quiz Average: (88 + 90 + 85 + 92)/4 = 88.75%
+    -   Quiz grades: 88%, 90%, 85%, 92%
+    -   Final exam: 80%
+    -   Adjusted quiz grades: No replacement, as all quiz grades exceed the final exam.
+    -   Dropped grade: 85%
+    -   Total quiz grade: (88 + 90 + 85 + 92)/4 = 88.8%
     -   **Outcome:** The final exam does not lower your average if your quiz grades are already strong.
 
 ## Scale
