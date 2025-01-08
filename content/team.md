@@ -38,17 +38,17 @@ Contact information can be found on [Canvas][canvas].
 
 ### Caelyn Peppler
 
-**Pronouns:** ???
+**Pronouns:** Any
 
-**Major:** ???
+**Major:** Computational Biology
 
-**Level:** ???
+**Level:** Senior
 
 **Office hours:** Thursdays from 3:00 - 4:00 pm in L10 Clapp
 
-**Ask me about:** ???
+**Ask me about:** my favorite books, my love of round foods, and dessert recipes
 
-**Career trajectory:** ???
+**Career trajectory:** Medicine (and psychiatry?)
 
 ### César Guerra-Solano
 
