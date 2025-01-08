@@ -44,11 +44,11 @@ Contact information can be found on [Canvas][canvas].
 
 **Level:** ???
 
-**Office hours:** ???
+**Office hours:** Thursdays from 3:00 - 4:00 pm in L10 Clapp
 
-**Ask me about** ???
+**Ask me about:** ???
 
-**Career trajectory** ???
+**Career trajectory:** ???
 
 ### César Guerra-Solano
 
@@ -58,25 +58,25 @@ Contact information can be found on [Canvas][canvas].
 
 **Level:** ???
 
-**Office hours:** ???
+**Office hours:** None
 
-**Ask me about** ???
+**Ask me about:** ???
 
-**Career trajectory** ???
+**Career trajectory:** ???
 
 ### Jay Grimsdall
 
 **Pronouns:** he/they
 
-**Major:** ???
+**Major:** Computational Biology
 
-**Level:** ???
+**Level:** Junior
 
-**Office hours:** ???
+**Office hours:** Wednesdays from 1:00 to 2:00 pm in L1 Clapp
 
-**Ask me about** ???
+**Ask me about:** Video games, reading, music, and fiber arts
 
-**Career trajectory** ???
+**Career trajectory:** PhD and research
 
 ### Justine Denby
 
@@ -86,11 +86,11 @@ Contact information can be found on [Canvas][canvas].
 
 **Level:** Junior
 
-**Office hours:** ???
+**Office hours:** Mondays from 11:00 am to 12:00 pm in 102 Clapp
 
-**Ask me about** Working out, climbing, music, video games, and reading!
+**Ask me about:** Working out, climbing, music, video games, and reading!
 
-**Career trajectory** PhD and industry
+**Career trajectory:** PhD and industry
 
 ### Mariska Goswami
 
@@ -100,11 +100,11 @@ Contact information can be found on [Canvas][canvas].
 
 **Level:** ???
 
-**Office hours:** ???
+**Office hours:** Thursdays from 3:00 - 4:00 pm in L10 Clapp
 
-**Ask me about** ???
+**Ask me about:** ???
 
-**Career trajectory** ???
+**Career trajectory:** ???
 
 ### Priyam Chauhan
 
@@ -114,11 +114,11 @@ Contact information can be found on [Canvas][canvas].
 
 **Level:** ???
 
-**Office hours:** ???
+**Office hours:** Wednesdays from 1:00 to 2:00 pm in L1 Clapp
 
-**Ask me about** ???
+**Ask me about:** ???
 
-**Career trajectory** ???
+**Career trajectory:** ???
 
 ### Rushali Patel
 
@@ -128,11 +128,11 @@ Contact information can be found on [Canvas][canvas].
 
 **Level:** ???
 
-**Office hours:** ???
+**Office hours:** Mondays from 11:00 am to 12:00 pm in 102 Clapp
 
-**Ask me about** ???
+**Ask me about:** ???
 
-**Career trajectory** ???
+**Career trajectory:** ???
 
 <!-- LINKS -->
 
