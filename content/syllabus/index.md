@@ -12,18 +12,18 @@
 <br>
 **Office hours:**
 
-| Day | Time | Location |
+| Days | Times | Locations |
 | --- | ---- | -------- |
-| ??? | ??? | ??? |
+| Tuesdays | 1:00 - 2:00 pm | L10 Clapp |
 
 ## Catalog description
 
-This course gives students a broad understanding of how computational approaches can solve problems in biology.
-We will also explore the biological and computational underpinnings of the methods.
+This course is designed to give students a broad understanding of how computational approaches can be used to solve problems in biology.
+Both the biological and computational underpinnings of the methods will be addressed.
 
 !!! note
 
-    The [catalog course description](https://catalog.upp.pitt.edu/preview_course_nopop.php?coid=1135443&catoid=213) mandates what material this course has to cover.
+    The [catalog course description](https://catalog.upp.pitt.edu/) mandates what material this course has to cover.
     How the material is covered is at the discretion of the instructor.
 
 ## Prerequisites
@@ -33,7 +33,7 @@ To enroll, you must have received a minimum grade of `C` in Foundations of Biolo
 !!! warning "Programming experience"
 
     Basic programming in Python will be necessary for the successful completion of this course.
-    However, prior experience is not required and adequate time and instruction will be provided.
+    However, prior experience is not required and adequate time and instruction to learn Python will be provided.
 
 <!-- REFERENCES -->
 
