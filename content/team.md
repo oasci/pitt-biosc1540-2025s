@@ -17,9 +17,9 @@ I generally respond within 12 hours.
 
 **Office hours:**
 
-| Day | Time | Location |
+| Days | Times | Locations |
 | --- | ---- | -------- |
-| ??? | ??? | ??? |
+| Tuesdays | 1:00 - 2:00 pm | L10 Clapp |
 
 **Office:** 103 Clapp Hall
 
