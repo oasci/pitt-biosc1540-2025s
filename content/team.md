@@ -88,7 +88,7 @@ Contact information can be found on [Canvas][canvas].
 
 **Office hours:** Mondays from 11:00 am to 12:00 pm in 102 Clapp
 
-**Ask me about:** Working out, climbing, music, video games, and reading!
+**Ask me about:** Working out, climbing, music, video games, and reading
 
 **Career trajectory:** PhD and industry
 
@@ -96,15 +96,15 @@ Contact information can be found on [Canvas][canvas].
 
 **Pronouns:** she/her
 
-**Major:** ???
+**Major:** Computational Biology
 
-**Level:** ???
+**Level:** Senior
 
 **Office hours:** Thursdays from 3:00 - 4:00 pm in L10 Clapp
 
-**Ask me about:** ???
+**Ask me about:** My dog, my Pittsburgh restaurant spreadsheet, or my viral Spotify playlist
 
-**Career trajectory:** ???
+**Career trajectory:** Medicine and public health
 
 ### Priyam Chauhan
 
