@@ -124,15 +124,15 @@ Contact information can be found on [Canvas][canvas].
 
 **Pronouns:** she/her
 
-**Major:** ???
+**Major:** Computational Biology; Global Health certificate
 
-**Level:** ???
+**Level:** Senior
 
 **Office hours:** Mondays from 11:00 am to 12:00 pm in 102 Clapp
 
-**Ask me about:** ???
+**Ask me about:** Crocheting, Paint by numbers, Coffee
 
-**Career trajectory:** ???
+**Career trajectory:** Law School
 
 <!-- LINKS -->
 
