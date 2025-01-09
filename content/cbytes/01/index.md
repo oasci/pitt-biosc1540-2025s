@@ -7,9 +7,15 @@
 
 <p style="text-align: center;">
     <object hspace="50">
+        <strong>ATP available</strong></a>: Jan 17, 2025 at 11:59 p.m.
+    </object>
+</p>
+
+<p style="text-align: center;">
+    <object hspace="50">
         <strong>ATP expiration</strong></a>: Jan 31, 2025 by 11:59 p.m.
     </object>
     <object hspace="50">
-        <strong>ATP available</strong></a>: 100
+        <strong>ATP possible</strong></a>: 100
     </object>
 </p>
