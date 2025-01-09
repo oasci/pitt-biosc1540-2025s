@@ -23,7 +23,7 @@ The course will have the following point distribution.
     3. **Case 3: Low Quiz Average**
         - Quiz Average: 65%
         - Project Average: 95%
-        - **Final Grade**: 61.2% (D&ndash;)
+        - **Final Grade**: 68.4% (D+)
 
     This policy emphasizes the importance of mastering the concepts in quizzes to succeed in the course.
 
