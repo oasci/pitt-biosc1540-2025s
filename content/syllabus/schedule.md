@@ -1,9 +1,5 @@
 # Schedule
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
 We start with [bioinformatics](#module-01-bioinformatics) to learn fundamentals of genomics and transcriptomics.
 Afterwards, we will cover structure prediction, molecular simulations, and computer-aided drug design in our [computational structural biology module](#module-02-computational-structural-biology).
 
