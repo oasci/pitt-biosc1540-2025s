@@ -110,15 +110,15 @@ Contact information can be found on [Canvas][canvas].
 
 **Pronouns:** she/her
 
-**Major:** ???
+**Major:** Computational Biology
 
-**Level:** ???
+**Level:** Sophomore
 
 **Office hours:** Wednesdays from 1:00 to 2:00 pm in L1 Clapp
 
-**Ask me about:** ???
+**Ask me about:** Hiking, Tennis, the current TV show I am watching, music
 
-**Career trajectory:** ???
+**Career trajectory:** Medicine
 
 ### Rushali Patel
 
