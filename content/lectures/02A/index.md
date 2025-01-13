@@ -18,13 +18,13 @@ Students will explore the principles underlying sequencing techniques and file f
 
 ## Learning objectives
 
-What you should be able to do after today's lecture:
+After today, you should have a better understanding of:
 
-1.  Describe the evolution of DNA sequencing technologies, including Sanger, Illumina, and Nanopore sequencing.
-2.  Compare the strengths, limitations, and applications of major sequencing platforms.
-3.  Construct a general workflow for DNA sequencing, from sample preparation to data generation.
-4.  Explain the role and importance of quality control in sequencing experiments.
-5.  Identify common issues in sequencing data, such as low-quality reads and adapter contamination, and their impact on downstream analyses.
+1.  Steps involved in DNA preparation for sequencing.
+2.  General experimental workflow for DNA sequencing.
+3.  Evolution and principles of DNA sequencing technologies.
+4.  Overview of major sequencing platforms.
+5.  Role of quality control in sequencing experiments.
 
 ## Readings
 

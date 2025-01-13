@@ -20,10 +20,10 @@ Students will engage in hands-on activities using Python and Galaxy to process s
 
 What you should be able to do after today's lecture:
 
-1.  Interpret and analyze sequencing data stored in FASTA and FASTQ file formats.
-2.  Perform quality control on sequencing reads using tools like FastQC.
-3.  Demonstrate the use of Python for basic sequencing data parsing and quality score interpretation.
-4.  Apply read trimming and filtering techniques in Galaxy to clean sequencing data.
+1.  Interpret the structure of FASTA and FASTQ files, including their role in sequencing data storage.
+2.  Write Python scripts to parse FASTQ files, calculate quality scores, and filter low-quality reads.
+3.  Analyze sequencing data quality using FastQC in Galaxy and interpret the resulting reports.
+4.  Apply read trimming and filtering techniques using Galaxy tools like fastp.
 
 ## Readings
 
