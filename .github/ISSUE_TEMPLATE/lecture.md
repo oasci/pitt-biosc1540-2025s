@@ -1,8 +1,8 @@
 ---
 name: Lecture
 about: Plan and deliver a lecture
-title: ''
-labels: ''
+title: Lecture <Number>
+labels: Lecture
 assignees: aalexmmaldonado
 
 ---
