@@ -16,12 +16,20 @@ Students will explore the principles underlying sequencing techniques and file f
 
 After today, you should have a better understanding of:
 
-1.  Techniques for extracting and purifying high-quality DNA.
-2.  Steps in preparing DNA libraries for sequencing.
-3.  Principles and innovations of DNA sequencing technologies.
-4.  Quality control measures for ensuring reliable sequencing data.
+1.  Importance and applications of DNA sequencing.
+2.  Techniques for extracting and purifying high-quality DNA.
+3.  Steps in preparing DNA libraries for sequencing.
+4.  Principles and innovations of DNA sequencing technologies.
+5.  Quality control measures for ensuring reliable sequencing data.
 
 ## Outline
+
+### Importance and Applications of DNA Sequencing
+
+By determining the precise order of nucleotides in DNA, sequencing technologies enable breakthroughs in understanding genetic information, driving innovations in medicine, agriculture, biotechnology, environmental science, and beyond.
+
+-   Understand how DNA sequencing has revolutionized biological research and genomics.
+-   Describe the use of DNA sequencing in healthcare, agriculture, biotechnology, environmental monitoring, and forensics.
 
 ### DNA Extraction and Purification
 
@@ -47,7 +55,7 @@ Explore the historical development and underlying scientific principles of vario
 -   Outline the evolution of DNA sequencing methods from Sanger sequencing to next-generation (NGS) and third-generation technologies.
 -   Explain the scientific principles behind Sanger sequencing, including chain termination and fluorescence detection.
 -   Describe the core principles of sequencing by synthesis, focusing on reversible terminators and bridge amplification.
--   Explain how single-molecule sequencing platforms (e.g., PacBio, Oxford Nanopore) detect and interpret DNA bases.
+-   Explain how single-molecule sequencing platforms detect and interpret DNA bases.
 -   Compare the fundamental advantages and challenges of second- and third-generation sequencing methods.
 
 ### Quality Control in DNA Sequencing Experiments
