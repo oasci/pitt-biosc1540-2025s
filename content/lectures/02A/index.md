@@ -37,8 +37,6 @@ Relevant content for today's lecture.
 -   [Sanger sequencing](https://omics.crumblearn.org/sequencing/dna/first-gen/sanger/)
 -   [Illumina sequencing](https://omics.crumblearn.org/sequencing/dna/second-gen/illumina/)
 -   [Nanopore sequencing](https://omics.crumblearn.org/sequencing/dna/third-gen/nanopore/)
--   [FASTA files](https://omics.crumblearn.org/appendices/file-types/fasta/)
--   [FASTQ files](https://omics.crumblearn.org/appendices/file-types/fastq/)
 
 <!-- ## Presentation
 
