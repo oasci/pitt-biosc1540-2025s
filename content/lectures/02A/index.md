@@ -9,10 +9,6 @@
     <b>Date:</b> Jan 14, 2024
 </p>
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
 This session provides the conceptual framework for understanding modern DNA sequencing technologies and the importance of quality control in genomic data analysis.
 Students will explore the principles underlying sequencing techniques and file formats.
 
@@ -20,11 +16,46 @@ Students will explore the principles underlying sequencing techniques and file f
 
 After today, you should have a better understanding of:
 
-1.  Steps involved in DNA preparation for sequencing.
-2.  General experimental workflow for DNA sequencing.
-3.  Evolution and principles of DNA sequencing technologies.
-4.  Overview of major sequencing platforms.
-5.  Role of quality control in sequencing experiments.
+1.  Techniques for extracting and purifying high-quality DNA.
+2.  Steps in preparing DNA libraries for sequencing.
+3.  Principles and innovations of DNA sequencing technologies.
+4.  Quality control measures for ensuring reliable sequencing data.
+
+## Outline
+
+### DNA Extraction and Purification
+
+Establish a foundational understanding of the techniques and methodologies in extracting and purifying DNA from biological samples, ensuring high-quality input for subsequent sequencing processes.
+
+-   Describe the various methods for DNA extraction, including enzymatic, mechanical, and chemical approaches.
+-   Explain the processes of purifying extracted DNA to remove contaminants and inhibitors.
+-   Demonstrate techniques for assessing the purity and concentration of extracted DNA (e.g., spectrophotometry, fluorometry).
+
+### DNA Library Preparation for Sequencing
+
+Understand the critical steps in preparing DNA libraries for sequencing, including fragmentation, adapter ligation, and indexing, to ensure compatibility with various sequencing platforms.
+
+-   Explain the methods used to fragment DNA into suitable sizes for sequencing (e.g., mechanical shearing, enzymatic digestion).
+-   Describe the process of attaching sequencing adapters to fragmented DNA and the importance of adapter design.
+-   Discuss the role of indexing in allowing multiple samples to be sequenced simultaneously and the methods used for indexing.
+-   Identify key quality control metrics to assess library quality before sequencing (e.g., library size distribution, concentration).
+
+### Scientific Principles of DNA Sequencing Technologies
+
+Explore the historical development and underlying scientific principles of various DNA sequencing technologies, highlighting key innovations and their impacts on the field.
+
+-   Outline the evolution of DNA sequencing methods from Sanger sequencing to next-generation (NGS) and third-generation technologies.
+-   Explain the scientific principles behind Sanger sequencing, including chain termination and fluorescence detection.
+-   Describe the core principles of sequencing by synthesis, focusing on reversible terminators and bridge amplification.
+-   Explain how single-molecule sequencing platforms (e.g., PacBio, Oxford Nanopore) detect and interpret DNA bases.
+-   Compare the fundamental advantages and challenges of second- and third-generation sequencing methods.
+
+### Quality Control in DNA Sequencing Experiments
+
+Understand the essential quality control measures required post-sequencing to ensure data reliability and integrity and recognize the implications of data quality on downstream analyses.
+
+-   Identify key post-sequencing quality control processes, including base quality scoring, adapter trimming, and error detection.
+-   Discuss the consequences of poor-quality sequencing data on downstream computational analyses, such as assembly errors and false variant calls.
 
 ## Readings
 
