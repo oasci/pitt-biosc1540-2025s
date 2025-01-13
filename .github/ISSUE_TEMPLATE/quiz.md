@@ -2,7 +2,7 @@
 name: Quiz
 about: Plan, write, deliver, and grade a quiz
 title: Quiz <Number>
-labels: ''
+labels: Quiz
 assignees: aalexmmaldonado
 
 ---

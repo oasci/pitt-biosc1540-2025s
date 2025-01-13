@@ -2,7 +2,7 @@
 name: Homework
 about: Plan, write, and grade a homework assignment
 title: Assignment <Number>
-labels: ''
+labels: Homework
 assignees: aalexmmaldonado
 
 ---
