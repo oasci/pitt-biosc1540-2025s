@@ -20,7 +20,6 @@ After today, you should have a better understanding of:
 2.  Techniques for extracting and purifying high-quality DNA.
 3.  Steps in preparing DNA libraries for sequencing.
 4.  Principles and innovations of DNA sequencing technologies.
-5.  Quality control measures for ensuring reliable sequencing data.
 
 ## Outline
 
@@ -57,13 +56,6 @@ Explore the historical development and underlying scientific principles of vario
 -   Describe the core principles of sequencing by synthesis, focusing on reversible terminators and bridge amplification.
 -   Explain how single-molecule sequencing platforms detect and interpret DNA bases.
 -   Compare the fundamental advantages and challenges of second- and third-generation sequencing methods.
-
-### Quality Control in DNA Sequencing Experiments
-
-Understand the essential quality control measures required post-sequencing to ensure data reliability and integrity and recognize the implications of data quality on downstream analyses.
-
--   Identify key post-sequencing quality control processes, including base quality scoring, adapter trimming, and error detection.
--   Discuss the consequences of poor-quality sequencing data on downstream computational analyses, such as assembly errors and false variant calls.
 
 ## Readings
 
