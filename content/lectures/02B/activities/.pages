@@ -1,3 +1,4 @@
 nav:
-  - "Quality analysis": /lectures/03/activities/quality/
-  - "Read trimming": /lectures/03/activities/trim/
+  - index.md
+  - "Quality analysis": /lectures/02B/activities/quality/
+  - "Read trimming": /lectures/02B/activities/trim/
