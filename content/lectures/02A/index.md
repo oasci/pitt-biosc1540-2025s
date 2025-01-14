@@ -69,19 +69,10 @@ Relevant content for today's lecture.
 -   [Illumina sequencing](https://omics.crumblearn.org/sequencing/dna/second-gen/illumina/)
 -   [Nanopore sequencing](https://omics.crumblearn.org/sequencing/dna/third-gen/nanopore/)
 
-<!-- ## Presentation
+## Presentation
 
 -   **View:** [slides.com/aalexmmaldonado/biosc1540-l02a](https://slides.com/aalexmmaldonado/biosc1540-l02a)
 -   **Live link:** [slides.com/d/wOV7d9w/live](https://slides.com/d/wOV7d9w/live)
 -   **Download:** [biosc1540-l02a.pdf](/lectures/02/biosc1540-l02a.pdf)
 
-<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l02a/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 02A" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
-
-<!-- Notes
-
-- Add example about cluster for why we need stronger signal.
-- Need to go into more detail/clarification of primers, indices, and adapters.
-- There seems to be a gap in how we get from sample, to attached, amplified, and then sequenced.
-- Gave example of looking out into a dark stadium and giving people flash lights.
-- Students are still really struggling with how the fragments get onto the flow cell.
--->
+<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l02a/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 02A" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
