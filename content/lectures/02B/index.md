@@ -18,14 +18,39 @@ Students will engage in hands-on activities using Python and Galaxy to process s
 
 ## Learning objectives
 
-What you should be able to do after today's lecture:
+After today, you should have a better understanding of:
 
-1.  Interpret the structure of FASTA and FASTQ files, including their role in sequencing data storage.
-2.  Write Python scripts to parse FASTQ files, calculate quality scores, and filter low-quality reads.
-3.  Analyze sequencing data quality using FastQC in Galaxy and interpret the resulting reports.
-4.  Apply read trimming and filtering techniques using Galaxy tools like fastp.
+1.  Sequencing data formats such as FASTA and FASTQ.
+2.  Assessing sequencing data quality.
+3.  Cleaning and preprocessing sequencing data.
 
-## Readings
+## Outline
+
+### Sequencing data formats
+
+Familiarity with FASTA and FASTQ formats is essential for analyzing sequencing data effectively.
+
+-   Explore the structure and key components of FASTA and FASTQ files.
+-   Load sample FASTQ files and inspect their content using Python.
+-   Demonstrate how FastQC can analyze the quality of FASTQ files.
+
+### Assessing sequencing data quality
+
+Quality control identifies potential issues in sequencing data that could affect downstream analysis.
+
+-   Learn the role of FastQC in assessing sequence quality.
+-   Use Python to calculate basic quality metrics from FASTQ files, such as average quality scores.
+-   Compare FastQC results with Python-generated metrics to reinforce the importance of automated tools.
+
+### Cleaning and preprocessing sequencing data
+
+Data cleaning removes contaminants and improves the reliability of sequencing data.
+
+-   Introduce the need for adapter trimming and quality filtering with Fastp.
+-   Demonstrate Fastp’s preprocessing capabilities and interpret its output.
+-   Write Python scripts to simulate basic preprocessing, such as filtering low-quality reads or trimming sequences.
+
+## Supplementary material
 
 Relevant content for today's lecture.
 
@@ -37,14 +62,7 @@ Relevant content for today's lecture.
 
 -   **View:** [slides.com/aalexmmaldonado/biosc1540-l02b](https://slides.com/aalexmmaldonado/biosc1540-l02b)
 -   **Live link:** [slides.com/d/HVHLMoo/live](https://slides.com/d/HVHLMoo/live)
--   **Download:** [biosc1540-l02b.pdf](/lectures/03/biosc1540-l02b.pdf)
+-   **Download:** [biosc1540-l02b.pdf](/lectures/02b/biosc1540-l02b.pdf)
 
 <iframe src="https://slides.com/aalexmmaldonado/biosc1540-l02b/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 02B" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
 
-<!-- NOTE:
-
--   This was too much material to cover in one lecture.
--   N50 and L50 were confusing concepts
--   Probably spend too much time on why we use ASCII or error source. I could streamline this.
--   Perhaps I can have students be responsible for that material for more activity time.
- -->
