@@ -28,6 +28,10 @@ assignees: aalexmmaldonado
 - [ ] Upload materials to the course repository or LMS.
 - [ ] Share lecture materials with students.
 
+## Reflection
+
+- [ ] Write down any notes about what you would change for next time.
+
 ## Additional Notes
 
 _Add any specific notes, reminders, or challenges related to this lecture preparation_
