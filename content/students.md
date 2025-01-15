@@ -1,6 +1,6 @@
 # Students
 
-There are a total of 43 students enrolled in this course.
+There are a total of 41 students enrolled in this course.
 
 ## Level
 
