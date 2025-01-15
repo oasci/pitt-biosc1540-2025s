@@ -6,13 +6,13 @@ There are a total of 43 students enrolled in this course.
 
 | Freshman | Sophomore | Junior | Senior |
 | -------- | --------- | ------ | ------ |
-| 2 | 4 | 11 | 26 |
+| 2 | 4 | 10 | 25 |
 
 ## Programs of study
 
 These include primary majors of students enrolled in the class.
 
--   **Computational Biology:** 12
+-   **Computational Biology:** 11
 -   **Biological Sciences:** 9
 -   **Undeclared:** 7
 -   **Microbiology:** 4
@@ -22,4 +22,3 @@ These include primary majors of students enrolled in the class.
 -   **Neuroscience:** 1
 -   **Computer Science:** 1
 -   **Biochemistry:** 1
--   **Natural Sciences Area:** 1
