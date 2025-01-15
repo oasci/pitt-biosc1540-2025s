@@ -26,7 +26,7 @@ After today, you should better understand:
 4.  RMSD and RMSF as conformational changes and flexibility metrics.
 5.  Relationship between probability and energy in simulations.
 
-## Readings
+## Supplementary material
 
 Relevant content for today's lecture.
 

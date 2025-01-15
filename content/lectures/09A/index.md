@@ -29,7 +29,7 @@ What you should be able to do after today's lecture:
 6.  Understand the experimental challenges of disorder.
 7.  Know why protein structure prediction is helpful.
 
-## Readings
+## Supplementary material
 
 Relevant content for today's lecture.
 

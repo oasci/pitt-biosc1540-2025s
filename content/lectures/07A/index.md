@@ -28,7 +28,7 @@ What you should be able to do after today's lecture:
 4.  Describe how salmon handles experimental biases in transcriptomics data.
 5.  Communicate the principles of inference in Salmon.
 
-## Readings
+## Supplementary material
 
 Relevant content for today's lecture.
 

@@ -26,7 +26,7 @@ What you should be able to do after today's lecture:
 4.  Explain key concepts such as fold change, p-value, and false discovery rate.
 5.  Interpret common visualizations used in differential expression analysis.
 
-## Readings
+## Supplementary material
 
 Relevant content for today's lecture.
 

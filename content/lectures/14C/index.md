@@ -24,7 +24,7 @@ What you should be able to do after today's lecture:
 5.  Explain the role of force field selection and topology generation.
 6.  Outline the process of energy minimization and its significance.
 
-## Readings
+## Supplementary material
 
 Relevant content for today's lecture if you are interested.
 
@@ -52,7 +52,7 @@ After today, you should better understand:
 4.  RMSD and RMSF as conformational changes and flexibility metrics.
 5.  Relationship between probability and energy in simulations.
 
-## Readings
+## Supplementary material
 
 Relevant content for today's lecture.
 

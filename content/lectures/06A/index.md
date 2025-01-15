@@ -26,7 +26,7 @@ What you should be able to do after today's lecture:
 4.  Explain the principles of RNA-seq technology and its advantages over previous methods.
 5.  Outline the computational pipeline for RNA-seq data analysis.
 
-## Readings
+## Supplementary material
 
 Relevant content for today's lecture.
 
@@ -65,7 +65,7 @@ What you should be able to do after today's lecture:
 2.  Compare read alignment algorithms, including hash-based and suffix tree-based approaches.
 3.  Explain the basic principles of the Burrows-Wheeler Transform (BWT) for sequence alignment.
 
-## Readings
+## Supplementary material
 
 Relevant content for today's lecture.
 

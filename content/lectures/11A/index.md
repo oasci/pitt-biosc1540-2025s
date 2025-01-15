@@ -29,7 +29,7 @@ What you should be able to do after today's lecture:
 6.  Comprehend how coevolution provides structural insights.
 7.  Explain why ML models are dominate protein structure prediction.
 
-## Readings
+## Supplementary material
 
 Relevant content for today's lecture.
 

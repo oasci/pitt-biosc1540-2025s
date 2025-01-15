@@ -27,7 +27,7 @@ What you should be able to do after today's lecture:
 4.  Describe the concept and procedure of local alignment using the Smith-Waterman algorithm.
 5.  Introduce the concept of multiple sequence alignment, including its importance and challenges.
 
-## Readings
+## Supplementary material
 
 Relevant content for today's lecture.
 

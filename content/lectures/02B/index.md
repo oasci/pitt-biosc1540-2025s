@@ -62,7 +62,7 @@ Relevant content for today's lecture.
 
 -   **View:** [slides.com/aalexmmaldonado/biosc1540-l02b](https://slides.com/aalexmmaldonado/biosc1540-l02b)
 -   **Live link:** [slides.com/d/HVHLMoo/live](https://slides.com/d/HVHLMoo/live)
--   **Download:** [biosc1540-l02b.pdf](/lectures/02b/biosc1540-l02b.pdf)
+-   **Download:** [biosc1540-l02b.pdf](/lectures/02B/biosc1540-l02b.pdf)
 
 <iframe src="https://slides.com/aalexmmaldonado/biosc1540-l02b/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 02B" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
 

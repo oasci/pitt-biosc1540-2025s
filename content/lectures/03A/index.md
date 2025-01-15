@@ -23,7 +23,7 @@ What you should be able to do after today's lecture:
 2.  Describe and apply the principles of the greedy algorithm.
 3.  Understand and construct de Bruijn graphs.
 
-## Readings
+## Supplementary material
 
 Relevant content for today's lecture.
 

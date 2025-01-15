@@ -27,7 +27,7 @@ By the end of this lecture, you should be able to:
 4.  Outline the main computational methods used in gene prediction and annotation.
 5.  Analyze and interpret basic gene annotation data and outputs.
 
-## Readings
+## Supplementary material
 
 Relevant content for today's lecture.
 

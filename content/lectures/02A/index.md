@@ -57,7 +57,7 @@ Explore the historical development and underlying scientific principles of vario
 -   Explain how single-molecule sequencing platforms detect and interpret DNA bases.
 -   Compare the fundamental advantages and challenges of second- and third-generation sequencing methods.
 
-## Readings
+## Supplementary material
 
 Relevant content for today's lecture.
 
