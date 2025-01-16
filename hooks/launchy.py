@@ -15,7 +15,12 @@ def on_page_content(html, page, config, files):
     """Adds a Google colab button to launch Jupyter files"""
     # Only Jupyter notebooks will have this div.
     if is_jupyter(html=html):
-        colab_url = os.path.join(config["colab_base_url"], page.url)[:-1] + ".ipynb"
+        page_url = page.url
+        if "/index.ipynb" == page.file.abs_src_path[-12:]:
+            page_url += "index.ipynb"
+        else:
+            page_url = page_url[:-1] + ".ipynb"
+        colab_url = os.path.join(config["colab_base_url"], page_url)
         colab_launch_html = f"""
         <div class="launchy-container">
             <a href="{colab_url}" target="_blank">
