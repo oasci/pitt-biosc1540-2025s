@@ -1,4 +1,5 @@
 nav:
   - index.md
+  - "FASTA": /lectures/02B/activities/fasta/
   - "Quality analysis": /lectures/02B/activities/quality/
   - "Read trimming": /lectures/02B/activities/trim/

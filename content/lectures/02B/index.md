@@ -9,10 +9,6 @@
     <b>Date:</b> Jan 16, 2024
 </p>
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
 This session focuses on the practical steps and computational tools required for analyzing sequencing data.
 Students will engage in hands-on activities using Python and Galaxy to process sequencing datasets, assess data quality, and clean reads for downstream analyses.
 
@@ -58,11 +54,10 @@ Relevant content for today's lecture.
 -   [FASTQ files](https://omics.crumblearn.org/appendices/file-types/fastq/)
 -   [FastQC](https://omics.crumblearn.org/genomics/assembly/qc/fastqc/) and nested content
 
-<!-- ## Presentation
+## Presentation
 
 -   **View:** [slides.com/aalexmmaldonado/biosc1540-l02b](https://slides.com/aalexmmaldonado/biosc1540-l02b)
--   **Live link:** [slides.com/d/HVHLMoo/live](https://slides.com/d/HVHLMoo/live)
+-   **Live link:** [slides.com/d/xoclcZw/live](https://slides.com/d/xoclcZw/live)
 -   **Download:** [biosc1540-l02b.pdf](/lectures/02B/biosc1540-l02b.pdf)
 
 <iframe src="https://slides.com/aalexmmaldonado/biosc1540-l02b/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 02B" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
-
