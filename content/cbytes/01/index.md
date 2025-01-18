@@ -25,6 +25,10 @@ This dataset, initially intended to provide insights into key biological questio
 Your role is to rescue the data, develop computational tools and techniques to transform a chaotic dataset into one suitable for downstream analysis.
 By the end of this CByte, you will have gained experience with file formats like FASTQ, practiced coding for data quality assessment, and applied computational methods to process genomic data.
 
+!!! danger "DRAFT"
+
+    Gradescope autograder is still in development.
+
 ## Quality control
 
 Your task is to write a Python script that filters sequencing reads from a FASTQ file based on their quality scores. Using a provided utility function for reading the FASTQ file, you will focus on calculating average quality scores, identifying low-quality reads, and generating an output file that excludes these reads.
