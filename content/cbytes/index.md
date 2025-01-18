@@ -36,16 +36,18 @@ By participating, you’re contributing to a shared success that helps everyone 
 
 ### How It Works
 
-CBytes are released weekly, offering you the chance to practice and strengthen your computational biology skills. Here's how they’re structured and what you can expect.
+CBytes are released weekly, offering you the chance to practice and strengthen your computational biology skills.
+Here's how they’re structured and what you can expect.
 
 **1. Weekly Challenges**
 Each Friday (starting on Jan 17) at 11:59 pm, a new CByte will be made available.
 These challenges are directly tied to material covered in class but may also introduce advanced programming concepts to stretch your skills.
-You’ll have two weeks to complete the challenge and earn **Advanced Training Points (ATP)**.
+You’ll have two weeks to complete the challenge and earn ATP.
 After this period, you can still submit solutions for practice, but ATP rewards will no longer be available.
 
 **2. Three-Tiered Difficulty Levels**
-Each CByte is divided into three progressive parts, starting with beginner-friendly problems and gradually increasing in complexity. The challenges are designed to build on one another, encouraging you to develop a deeper understanding of the material as you advance.
+Each CByte is divided into three progressive parts, starting with beginner-friendly problems and gradually increasing in complexity.
+The challenges are designed to build on one another, encouraging you to develop a deeper understanding of the material as you advance.
 While the problems relate to lecture content, they also encourage you to explore programming techniques that go beyond what’s covered in class.
 
 **3. Immediate Feedback Through Gradescope**
@@ -54,7 +56,8 @@ Most test cases will be visible to help you debug your code and learn from mista
 Your ATP rewards will be calculated automatically, giving you a clear sense of your progress.
 
 **4. Collaborative Learning with Boundaries**
-Collaboration is a key part of learning, and we encourage you to discuss ideas, strategies, and approaches with your peers to help tackle the challenges. However, maintaining academic integrity is crucial. While working together to understand the problems is allowed, directly sharing solutions or copying code to gain ATP is strictly prohibited.
+Collaboration is a key part of learning, and we encourage you to discuss ideas, strategies, and approaches with your peers to help tackle the challenges. However, maintaining academic integrity is crucial.
+While working together to understand the problems is allowed, directly sharing solutions or copying code to gain ATP is strictly prohibited.
 
 **5. Teaching Team Support**
 During the ATP eligibility period, the teaching team will be available to provide limited guidance to help you tackle the challenges.
@@ -62,15 +65,18 @@ After the ATP window closes, we will release detailed walkthroughs for each CByt
 These walkthroughs are a valuable resource for improving your programming skills and deepening your understanding.
 
 **6. Generative AI Prohibition**
-While CBytes are designed to encourage learning and creativity, the use of generative AI tools such as ChatGPT, GitHub Copilot, or similar technologies to directly solve problems is strictly prohibited. These tools undermine the purpose of the challenges, which is to develop your own understanding and problem-solving skills.
+While CBytes are designed to encourage learning and creativity, the use of generative AI tools such as ChatGPT, GitHub Copilot, or similar technologies to directly solve problems is strictly prohibited.
+These tools undermine the purpose of the challenges, which is to develop your own understanding and problem-solving skills.
 
 **7. Consequences**
 Participation in CBytes is a privilege designed to enhance your learning and reward your efforts.
 To maintain a fair and engaging experience for everyone, adherence to the program’s rules is mandatory.
 If any rules are violated, the following consequences will apply:
 
--   Any ATP earned through the program will be revoked and converted to ADP, rendering them void. This applies to all ATP accumulated up to the point of the violation.
--   Students found breaking the rules will lose the ability to participate in future CByte challenges. This includes forfeiting the opportunity to earn ATP or gain access to related rewards.
+-   Any ATP earned through the program will be revoked and converted to **Alex Disapproval Points (ADP)**, rendering them void.
+    This applies to all ATP accumulated up to the point of the violation.
+-   Students found breaking the rules will lose the ability to participate in future CByte challenges.
+    This includes forfeiting the opportunity to earn ATP or gain access to related rewards.
 
 ### Who Developed CBytes?
 
