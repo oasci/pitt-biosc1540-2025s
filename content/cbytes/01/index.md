@@ -414,10 +414,10 @@ You glanced at the clock, realizing how late it had gotten. There were more prob
 The filtered reads and trimmed adapters were milestones in cleaning up the dataset, but one big question loomed: whose data was this?
 Multiplexed sequencing experiments are efficient, but they come with a cost: the need to untangle a mixed mess of sequencing reads and assign each one to its rightful owner.
 
-“This is where barcodes come in,” you said, flipping through the READ manual.
-“Each sample in the experiment was tagged with a unique sequence—like a DNA name tag. We just need to read the tags and sort the data.”
+"This is where barcodes come in," you said, flipping through the READ manual.
+"Each sample in the experiment was tagged with a unique sequence—like a DNA name tag. We just need to read the tags and sort the data."
 
-“Just need to?” Kai raised an eyebrow. “You make it sound like untangling the Christmas lights from last year.”
+"Just need to?" Kai raised an eyebrow. "You make it sound like untangling the Christmas lights from last year."
 
 It wasn’t a bad analogy.
 De-multiplexing involves checking the start of every read for one of the known barcodes, assigning the read to the appropriate sample, and saving any unrecognized reads for further investigation.
@@ -438,7 +438,7 @@ BARCODES_MAP = {
 }
 ```
 
-“This is going to take some work,” Priya noted, glancing at the function template on your screen.
+"This is going to take some work," Priya noted, glancing at the function template on your screen.
 
 ```python
 def demultiplex_reads(
@@ -455,7 +455,7 @@ def demultiplex_reads(
     Returns:
         A dictionary with sample IDs as keys and lists of FASTQ records as values.
 
-        A list of unclassified reads (headers, sequences, qualities).
+        A list of unclassified reads.
     """
     classified = {}
     unclassified = []
@@ -466,6 +466,7 @@ def demultiplex_reads(
     return classified, unclassified
 ```
 
-The team leaned in as you sketched out the next steps. “Once we separate these reads by barcode, we’ll have clean, sample-specific datasets ready for analysis.”
+The team leaned in as you sketched out the next steps.
+"Once we separate these reads by barcode, we’ll have clean, sample-specific datasets ready for analysis."
 
-“Just don’t mix them up again,” Kai joked, nudging the pile of notes on your desk.
+"Just don’t mix them up again," Kai joked, nudging the pile of notes on your desk.
