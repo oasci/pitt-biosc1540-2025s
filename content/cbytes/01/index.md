@@ -195,9 +195,11 @@ def convert_quality_string_to_scores(quality_string: str) -> list[int]:
 ```
 
 This function would take a single quality string as input and convert it to a list of integers.
-Each character in the string needed to be interpreted as an ASCII value, with a specific offset to obtain the Phred score. The task wasn’t just about coding—it was about understanding the underlying data format and ensuring accuracy at every step.
+Each character in the string needed to be interpreted as an ASCII value, with a specific offset to obtain the Phred score.
+The task wasn’t just about coding—it was about understanding the underlying data format and ensuring accuracy at every step.
 
-"Think of it like translating a secret code," you explained to the team. "Each symbol holds the key to understanding how reliable the data is."
+"Think of it like translating a secret code," you explained to the team.
+"Each symbol holds the key to understanding how reliable the data is."
 
 Kai leaned in. "So, once we’ve got the scores, we can figure out which reads to keep, right?"
 
@@ -283,13 +285,14 @@ The example provided the desired output for the given input:
 ```
 
 “That’s exactly what we need!” you said, jotting down the details.
-The example was a perfect test case for your `filter_low_quality_reads` function. The ASCII quality scores for the given input were straightforward:
+The example was a perfect test case for your `filter_low_quality_reads` function.
+The ASCII quality scores for the given input were straightforward:
 
--   "IIII": All characters correspond to Phred score 40 (high-quality read).
--   "!!!!": All characters correspond to Phred score 0 (junk read).
--   "JJJJ": All characters correspond to Phred score 41 (high-quality read).
+-   `IIII`: All characters correspond to Phred score 40 (high-quality read).
+-   `!!!!`: All characters correspond to Phred score 0 (junk read).
+-   `JJJJ`: All characters correspond to Phred score 41 (high-quality read).
 
-Only "ACGT" and "TTAA" passed the threshold of 20, along with their respective quality strings, "IIII" and "JJJJ."
+Only `ACGT` and `TTAA` passed the threshold of 20, along with their respective quality strings, `IIII` and `JJJJ`.
 
 “That’s it,” you said triumphantly. “If this works for their example, it should handle the real data too.”
 
@@ -299,32 +302,97 @@ Kai raised an eyebrow. “And if it doesn’t?”
 
 ## Trimming Adapter Contamination
 
-Your task is to identify and remove adapter sequences from sequencing reads in a FASTQ file.
-This process ensures clean data for downstream analysis by eliminating unwanted adapter contamination.
-Additionally, you will generate a comprehensive report summarizing the process.
+With the filtering function finally complete, you leaned back in your chair and sighed.
+“Alright, team, we did it. The junk reads are gone.”
+
+“Time to celebrate?” Priya asked, already reaching for her jacket.
+
+“Boba?” Ethan suggested, clearly eager to redeem himself after the sequencer disaster.
+
+The group unanimously agreed.
+A quick trip to the boba shop was just the recharge everyone needed.
+Over a mountain of tapioca pearls and caffeinated beverages, you basked in the brief calm, feeling a sliver of hope that this project might actually come together.
+
+Back in the lab, you stared at the filtered reads with a mix of satisfaction and exhaustion.
+They were clean, devoid of low-quality junk, but still, something wasn’t right.
+Priya confirmed it, peering over her laptop. “There’s something weird at the ends of these reads. They don’t look like real sequences.”
+
+“Adapters,” Kai muttered, popping another gummy bear into his mouth. “I hate those things.”
+
+Adapters: the persistent little hitchhikers of sequencing data.
+These short sequences, added during library preparation, were essential for binding and amplifying DNA fragments in the sequencer.
+But now, they had overstayed their welcome, clinging to the reads like barnacles on a ship.
+If they weren’t trimmed, they’d ruin any hope of accurate analysis downstream.
+
+“Okay,” you said, pulling up the next section of the READ manual. “Let’s figure out how to get rid of these.”
+
+The manual didn’t disappoint—this time.
+Nestled between cryptic diagrams and indecipherable scribbles was a section on adapter trimming.
+The code was dense, but it was clear enough: the trimming process revolved around identifying adapter sequences at the ends of reads, handling mismatches, and resizing the sequences and their quality scores accordingly.
+
+> Iterate through each adapter in the `adapter_list` and search for occurrences of these adapters at the 3' end of `seq_read`.
+> A minimum overlap of `min_overlap` between the adapter and `seq_read` to consider remove.
+> Allow for up to `diff_limit` mismatches when identifying adapter sequences to account for sequencing errors or slight variations in adapter sequences.
+> When a matching adapter sequence is found that meets the mismatch criteria, trim the adapter from the read.
+
+“So basically,” Priya said, “we cut off the freeloaders without damaging the actual data?”
+
+“Exactly,” you said, sketching out a plan. “And if we don’t, this whole project will still look like spaghetti data.”
+
+Using the manual as a guide, you drafted the Python function.
+It would process each sequence and its corresponding quality scores, checking for matches to a list of known adapters.
+If an adapter was found, both the sequence and quality scores would be trimmed accordingly.
 
 ```python
-def trim_adapters(sequences: list[str], qualities: list[str], adapters: list[str]) -> tuple[list[str], list[str]]:
+def trim_adapters(
+    seq_read: str,
+    adapter_list: list[str],
+    diff_limit: int = 2,
+    min_overlap: int = 10,
+) -> str:
     """
-    Trims adapter sequences from sequencing reads.
+    Trims adapter sequences from a single sequencing read.
 
     Args:
-        sequences: A list of DNA sequences to process.
-        qualities: A list of quality score strings corresponding to each sequence.
-        adapters: A list of adapter sequences to trim from the reads.
+        seq_read:
+            The DNA sequence of the read to process.
+        adapter_list:
+            A list of adapter sequences to trim from the read.
+        diff_limit:
+            The maximum number of mismatches allowed when identifying adapter sequences.
+            Defaults to 2.
+        min_overlap:
+            The minimum required length of adapter overlap with `seq_read`
+            to consider for trimming. Defaults to 10.
 
     Returns:
-        - A list of trimmed DNA sequences.
-        - A list of trimmed quality score strings, corresponding to the sequences.
+        The trimmed or original DNA sequence after any adapter removal.
     """
-    trimmed_sequences: list[str] = []
-    trimmed_qualities: list[str] = []
+    seq_trimmed: str = seq_read
 
-    # TODO:
-    pass
-
-    return trimmed_sequences, trimmed_qualities
+    # TODO: Implement sequence matching to search for known adapter sequences within the read.
+    # Allow for mismatches up to `diff_limit` and trim adapters accordingly.
+    return seq_trimmed
 ```
+
+To make sure the trimming worked as expected, you used a small test dataset with the following function parameters.
+
+```python
+ADAPTERS = ["AGTGCCG"]
+diff_limit = 1
+min_overlap = 4
+```
+
+| `seq_read` | `seq_trimmed` |
+| ---------- | ------------- |
+| `TTTTAACCCCCCCCC` | `TTTTAACCCCCCCCC` |
+| `AGTGCCGACGTACGT` | `AGTGCCGACGTACGT` |
+| `AGTGCCGACGTAGTG` | `AGTGCCGACGT` |
+| `AGTGCCGACGTAGAG` | `AGTGCCGACGT` |
+| `AGTGCCGACGTAG` | `AGTGCCGACGTAG` |
+| `CCGACGTAGTGCCG` | `CCGACGT` |
+
+The trimmed reads appeared on the screen, perfect and pristine.
 
 ## De-multiplexing Mixed Samples
 
