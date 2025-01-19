@@ -13,7 +13,7 @@
 
 <p style="text-align: center;">
     <object hspace="50">
-        <strong>ATP expiration</strong></a>: Jan 31, 2025 by 11:59 p.m.
+        <strong>ATP expiration</strong></a>: Feb 2, 2025 by 11:59 p.m.
     </object>
     <object hspace="50">
         <strong>ATP possible</strong></a>: 100
@@ -25,9 +25,10 @@ This dataset, initially intended to provide insights into key biological questio
 Your role is to rescue the data, develop computational tools and techniques to transform a chaotic dataset into one suitable for downstream analysis.
 By the end of this CByte, you will have gained experience with file formats like FASTQ, practiced coding for data quality assessment, and applied computational methods to process genomic data.
 
-!!! danger "DRAFT"
+!!! danger "Attention"
 
-    Gradescope autograder is still in development.
+    Someone has pointed out a flaw in the problem description and needs to be updated.
+    ATP expiration will be extended by two days after fixed.
 
 ## Quality control
 
