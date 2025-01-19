@@ -416,7 +416,10 @@ Multiplexed sequencing experiments are efficient, but they come with a cost: the
 "Just need to?" Kai raised an eyebrow. "You make it sound like untangling the Christmas lights from last year."
 
 It wasn't a bad analogy.
-De-multiplexing involves checking the start of every read for one of the known barcodes, assigning the read to the appropriate sample, and saving any unrecognized reads for further investigation.
+De-multiplexing involves checking the start of every read for one of the known barcodes, assigning the read to the appropriate sample.
+Including the wrong read in the sample is dangerous, so we must play it safe.
+If we don't find an exact barcode match, we consider it uncategorized and assign it `None`.
+
 Each barcode corresponded to a unique sample in the experiment, neatly mapped in a dictionary like this:
 
 ```python
@@ -440,26 +443,25 @@ BARCODES_MAP = {
 def demultiplex_reads(
     sequences: list[str],
     barcode_map: dict[str, str]
-) -> tuple[dict[str, list], list]:
+) -> list[str | None]:
     """
-    Demultiplex reads into sample-specific groups based on barcodes.
+    Categorize sequences based on barcodes and return a list of sample IDs or None.
 
     Args:
         sequences: List of DNA sequences.
         barcode_map: Mapping of barcodes to sample IDs.
 
     Returns:
-        A dictionary with sample IDs as keys and lists of FASTQ records as values.
-
-        A list of unclassified reads.
+        A list where each index corresponds to a sequence from the input list:
+            - The value is the sample ID if the sequence maps to a barcode.
+            - `None` if the sequence could not be categorized.
     """
-    classified = {}
-    unclassified = []
+    classification: list[str | None] = []
 
-    # TODO:
+    # TODO: Classify sequences
     pass
 
-    return classified, unclassified
+    return classification
 ```
 
 The team leaned in as you sketched out the next steps.
