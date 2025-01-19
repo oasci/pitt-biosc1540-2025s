@@ -7,7 +7,7 @@
 
 <p style="text-align: center;">
     <object hspace="50">
-        <strong>ATP available</strong></a>: Jan 17, 2025 at 11:59 p.m.
+        <strong>ATP released</strong></a>: Jan 17, 2025 at 11:59 p.m.
     </object>
 </p>
 
