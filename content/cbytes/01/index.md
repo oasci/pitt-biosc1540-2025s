@@ -13,30 +13,112 @@
 
 <p style="text-align: center;">
     <object hspace="50">
-        <strong>ATP expiration</strong></a>: Feb 2, 2025 by 11:59 p.m.
+        <strong>ATP expiration</strong></a>: Jan 31, 2025 by 11:59 p.m.
     </object>
     <object hspace="50">
         <strong>ATP possible</strong></a>: 100
     </object>
 </p>
 
-A research lab has presented you with a critical challenge: salvaging and preparing genomic data from a failed sequencing experiment.
-This dataset, initially intended to provide insights into key biological questions, is now compromised by poor-quality reads, contamination, and mixed sample barcodes.
-Your role is to rescue the data, develop computational tools and techniques to transform a chaotic dataset into one suitable for downstream analysis.
-By the end of this CByte, you will have gained experience with file formats like FASTQ, practiced coding for data quality assessment, and applied computational methods to process genomic data.
-
 !!! danger "Attention"
 
-    Someone has pointed out a flaw in the problem description and needs to be updated.
-    ATP expiration will be extended by two days after fixed.
+    I am making some narrative changes and slight changes to the problem description.
+    ATP will be extended by two days.
+
+It started like any other day in the lab: coffee-stained lab coats, a faint hum of sequencers in the background, and your PI staring blankly at the whiteboard as if it had personally offended them.
+
+“Okay, team,” Dr. Mendez said, clapping their hands together like they were about to announce a Nobel Prize.
+“We’ve got a challenge. The sequencing run ... well, it didn’t exactly work as planned.”
+
+“Define ‘exactly,’” muttered Kai, the resident pessimist, already digging through their stash of emergency snacks.
+
+“Let’s just say the data looks... artistic,” Dr. Mendez replied, spinning their laptop around to reveal a suspicious-looking heatmap like a Jackson Pollock painting.
+“Low-quality reads, contaminants, barcodes gone wild—you name it. We’ve got to fix this, or the grant report will read like an apology letter.”
+
+You raised an eyebrow. “So, basically, we’re cleaning up spaghetti data and hoping it magically turns into linguine?”
+
+“More like al dente angel hair,” Kai quipped through a mouthful of trail mix.
+
+“Enough jokes!” snapped Tim, the lab’s overachiever, furiously flipping through a protocol binder like it held the secrets to the universe.
+
+“We can fix this. Right? Someone say yes.”
+
+Everyone turned to you.
+Because, of course, they did.
+The newbie.
+The one who made the mistake of fixing the lab printer once, thereby earning the unshakable title of “tech genius.”
+All I did was trip on the power cord and it rebooted.
+
+You tried to muster confidence. “Uh, sure. I just need a list of tools, a quiet workspace, and maybe… a week?”
+
+“Perfect!” Dr. Mendez beamed. “Or, hear me out—what if we just rerun the experiment? Fresh data, no drama.”
+
+CRASH.
+
+Everyone turned to see Ethan, the lab intern, standing next to what used to be the Ridiculously Elaborate And Disastrous Sequencer (READ).
+The machine was smoking gently, a panel dangling from one side.
+
+“It… sparked,” Ethan said, holding up a suspiciously wet power cord.
+
+Dr. Mendez groaned audibly. “Well, I guess rerunning isn’t an option anymore. Great. How much time do you need again? A day?”
+
+"A day? Uhh... well." "Great! I have to go make some calls," interrupted Dr. Mendez as he hurried out of the room.
+
+Kai leaned over your shoulder, peering at the smoldering READ.
+“Maybe it’s better this way. You know, fewer chances for it to spontaneously combust during sequencing.”
+
+“Oh, come on,” you said, flipping through a lab manual. “How hard can it be to salvage? It’s just sequencing. A few overlaps, some error trimming, maybe some multiplexing…”
+
+Ethan blinked.
+“Gesundheit?”
+
+Priya smacked the table. “Focus! If we pull this off, we’ll have enough data to finish this project and publish!”
+
+“And if we don’t?” Kai asked, raising an eyebrow.
+
+“Well,” Priya said, gesturing toward Ethan, “we can always blame the intern.”
+
+“Hey!” Ethan protested.
+
+With that, the team got to work—or at least, they tried to. Priya started an Excel file with no less than 47 tabs, and Kai somehow turned their snack pile into a makeshift inspirational pyramid.
+
+And you?
+You stared at the mess of data, the unhelpful guide, and the fried READ, muttering, “Why didn’t I just become a barista?”
+
+But deep down, you knew you couldn’t let the chaos win.
+It was time to roll up your sleeves, fire up Python, and show this dataset who’s boss.
+
+The clock was ticking.
+Could you clean up the data and piece it all together?
+Or would you be the first bioinformatics hero to go down in flames—and barcodes?
 
 ## Quality control
 
-Your task is to write a Python script that filters sequencing reads from a FASTQ file based on their quality scores. Using a provided utility function for reading the FASTQ file, you will focus on calculating average quality scores, identifying low-quality reads, and generating an output file that excludes these reads.
+As the lab descended into chaos—with Ethan frantically apologizing to the now-sizzling sequencer and Kai constructing what could only be described as a “trail mix shrine”—you knew the path forward was anything but straightforward.
+Low-quality reads, strange artifacts, and contamination had turned the sequencing output into a digital minefield.
+But every dataset, no matter how messy, deserves a second chance.
 
-Sequencing quality control is a crucial step in bioinformatics workflows.
-Poor-quality reads can lead to errors in downstream analyses, and it is essential to filter them out before proceeding.
-This task will introduce you to FASTQ file processing, quality score interpretation, and read filtering.
+“Alright,” you muttered, pulling out your laptop and opening Python. “If the sequencer’s toast, we’ve got to salvage this mess.”
+
+Quality control is where the magic begins.
+Before any sequencing data can illuminate biological mysteries, it must pass through the fire of stringent analysis.
+Each read, like an eager contestant in a talent show, will need to prove its worth—only the sharpest, cleanest, and brightest will move forward.
+
+Your task is to write a Python script that evaluates each read’s average quality score, meticulously separates the strong contenders from the questionable, and ensures only high-quality data advances.
+Sequencing artifacts and low-quality reads could lead to catastrophic errors downstream—misalignments, false positives, even the dreaded ghost genes that haunt bioinformaticians’ dreams.
+
+### Reading FASTQ files
+
+Sifting through the crinkled, coffee-stained READ manual wasn’t exactly your idea of fun.
+The diagrams were cryptic, the margins were crowded with hastily scrawled notes, and the index seemed to have been organized by a committee of particularly malicious alphabet enthusiasts.
+But then, buried halfway through a section on "Data Parsing Utilities," you found it—a Python function that promised to read FASTQ files.
+
+“Finally, something useful!” you exclaimed, interrupting Priya’s feverish Excel wizardry.
+
+The function, aptly named `read_fastq`, seemed simple yet powerful.
+It claimed to extract sequences and their corresponding quality scores from FASTQ files—precisely what you needed to tame the unruly dataset.
+
+You quickly transcribed the code into your editor.
 
 ```python
 def read_fastq(file_path: str) -> tuple[list[str], list[str]]:
@@ -65,7 +147,32 @@ def read_fastq(file_path: str) -> tuple[list[str], list[str]]:
     return sequences, qualities
 ```
 
-Your task is to implement the following functions.
+Kai glanced over your shoulder. “Looks simple enough. Do you trust it?”
+
+You hesitated. “Well, it’s from the READ manual, and the READ is... well, temperamental. But it’s a good starting point.”
+
+The function’s design was intuitive: it opened the FASTQ file, read each sequence and its corresponding quality scores, and returned them as two separate lists.
+You could already imagine the possibilities. With this function, you could evaluate the quality of every sequence in the dataset, laying the groundwork for filtering out the junk and keeping only the gems.
+
+“You’re sure about this?” Ethan asked, still sheepishly eyeing the ruined sequencer.
+
+“Not at all,” you replied, spinning your laptop around to show the team. “But it’s better than staring at spaghetti data.”
+
+### Decoding the Quality String
+
+After successfully reading sequences and quality strings from the FASTQ file, the next challenge loomed large: interpreting the mysterious quality strings.
+These cryptic strings, composed of seemingly random ASCII characters, were the gatekeepers of sequencing data quality.
+Each character encoded a Phred quality score, a measure of the reliability of each nucleotide in the sequence.
+
+Sitting at your laptop, you stared at one of the quality strings displayed on your screen.
+"So, you're telling me this mess of symbols is supposed to mean something?" Ethan asked, squinting at the screen.
+
+You nodded.
+"Exactly. Each character has an ASCII value, which translates to a Phred score.
+That score tells us how confident the sequencer was about calling a particular base. The higher the score, the better the quality."
+
+Your goal was clear: write a function that could decode these strings into a list of integers representing the quality scores.
+You drafted the function skeleton.
 
 ```python
 def convert_quality_string_to_scores(quality_string: str) -> list[int]:
@@ -86,6 +193,35 @@ def convert_quality_string_to_scores(quality_string: str) -> list[int]:
 
     return scores
 ```
+
+This function would take a single quality string as input and convert it to a list of integers.
+Each character in the string needed to be interpreted as an ASCII value, with a specific offset to obtain the Phred score. The task wasn’t just about coding—it was about understanding the underlying data format and ensuring accuracy at every step.
+
+"Think of it like translating a secret code," you explained to the team. "Each symbol holds the key to understanding how reliable the data is."
+
+Kai leaned in. "So, once we’ve got the scores, we can figure out which reads to keep, right?"
+
+As you worked, a sense of progress replaced the earlier chaos.
+If this function worked as intended, it would be a crucial step toward reclaiming the dataset.
+With the quality scores decoded, you’d finally be able to start separating the signal from the noise.
+
+### Filtering Low-Quality Reads
+
+With the sequences loaded and the quality scores decoded into numerical values, you were one step closer to salvaging the dataset.
+But the next task was arguably the most crucial: deciding which reads were good enough to keep.
+Low-quality reads could wreak havoc downstream, leading to misalignments, false positives, or worse—misinterpretation of results.
+
+Your mission was clear: write a function to filter out reads with average quality scores below a given threshold.
+After a brief brainstorming session with the team (and yet another raid on Kai’s snack stash), you outlined the logic for `filter_low_quality_reads`.
+
+The function would need to:
+
+1.  Take the sequences, their corresponding quality strings, and a quality threshold as input.
+2.  Decode the ASCII-based quality strings into numerical scores using your previous function.
+3.  Calculate the average quality score for each read.
+4.  Retain only the sequences and quality strings with average scores meeting or exceeding the threshold.
+
+You quickly drafted the following skeleton.
 
 ```python
 def filter_low_quality_reads(
@@ -113,9 +249,23 @@ def filter_low_quality_reads(
     return filtered_sequences, filtered_qualities
 ```
 
-### Example
+“This is where we cut the junk,” you explained, pointing to the code.
+"We’ll loop through each sequence, convert its quality string into scores, calculate the average, and keep it only if it’s above the threshold."
 
-Input
+Ethan nodded nervously. “And… what happens to the junk?”
+
+“Well,” you said with a grin, “we let it rest in peace in the recycle bin.”
+
+“Alright,” Priya chimed in. “No pressure, but if this doesn’t work, we might need to write ‘oops’ in the grant report.”
+
+“No worries,” you replied, diving into the code. “By the time I’m done, this data will be as clean as a sequencer ad.”
+
+As the team gathered around your laptop, Ethan thumbed through the tattered READ manual, hoping for guidance on how to verify your filtering logic.
+Just as Kai began suggesting you “wing it,” he spotted a scribbled margin note: *“Example: Sequence filtering (Phred 20)”*.
+
+“Here we go!” Ethan exclaimed, pointing at the example, which provided a mock dataset:
+
+**Input:**
 
 ```python
 sequences = ["ACGT", "GGTT", "TTAA"]
@@ -123,13 +273,31 @@ qualities = ["IIII", "!!!!", "JJJJ"]
 threshold = 20
 ```
 
-Output
+The note continued with a brief explanation: the ASCII values of the quality characters needed to be converted into Phred scores, and only sequences with an average score of at least 20 should pass the filter.
+The example provided the desired output for the given input:
+
+**Output:**
 
 ```python
 (["ACGT", "TTAA"], ["IIII", "JJJJ"])
 ```
 
-## Trimming adapter contamination
+“That’s exactly what we need!” you said, jotting down the details.
+The example was a perfect test case for your `filter_low_quality_reads` function. The ASCII quality scores for the given input were straightforward:
+
+-   "IIII": All characters correspond to Phred score 40 (high-quality read).
+-   "!!!!": All characters correspond to Phred score 0 (junk read).
+-   "JJJJ": All characters correspond to Phred score 41 (high-quality read).
+
+Only "ACGT" and "TTAA" passed the threshold of 20, along with their respective quality strings, "IIII" and "JJJJ."
+
+“That’s it,” you said triumphantly. “If this works for their example, it should handle the real data too.”
+
+Kai raised an eyebrow. “And if it doesn’t?”
+
+“Well,” you said, “at least we’ll know where the READ manual belongs.”
+
+## Trimming Adapter Contamination
 
 Your task is to identify and remove adapter sequences from sequencing reads in a FASTQ file.
 This process ensures clean data for downstream analysis by eliminating unwanted adapter contamination.
@@ -162,7 +330,6 @@ def trim_adapters(sequences: list[str], qualities: list[str], adapters: list[str
 
 Your task is to separate sequencing reads into individual sample files based on their barcodes.
 This process is critical for handling mixed datasets generated during multiplexed sequencing experiments.
-Additionally, you will generate a summary report for any unclassified reads that do not match a provided barcode.
 
 ```python
 def demultiplex_reads(
