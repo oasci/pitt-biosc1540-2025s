@@ -9,26 +9,24 @@
     <b>Date:</b> Jan 23, 2024
 </p>
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
-This lecture aims to provide a thorough understanding of de novo assembly techniques, their applications, and their crucial role in advancing genomic research.
+This lecture delves into the computational algorithms used in genome assembly.
+It starts with the greedy algorithm as a foundation before introducing De Bruijn graphs as a modern approach.
+Students will explore how graph traversal techniques are used to extract contigs from assembly graphs.
+The session also covers SPAdes' methodology, emphasizing multi-sized graphs and paired-end reads.
 
 ## Learning objectives
 
-What you should be able to do after today's lecture:
+After today, you should have a better understanding of:
 
-1.  Explain the fundamental challenge of reconstructing a complete genome.
-2.  Describe and apply the principles of the greedy algorithm.
-3.  Understand and construct de Bruijn graphs.
+1.  The greedy algorithm for genome assembly.
+2.  De Bruijn graphs and their role in assembly.
+3.  Graph traversal methods for extracting contigs.
+4.  How SPAdes constructs genome assemblies.
 
 ## Supplementary material
 
 Relevant content for today's lecture.
 
--   [Genome assembly](https://omics.crumblearn.org/genomics/assembly/)
--   [Assembly concepts](https://omics.crumblearn.org/genomics/assembly/concepts/) and nested content
 -   [Greedy algorithm](https://omics.crumblearn.org/genomics/assembly/de-novo/greedy/)
     -   [JHU](https://www.cs.jhu.edu/~langmea/resources/lecture_notes/16_assembly_scs_v2.pdf)
 -   de Bruijn
@@ -39,7 +37,6 @@ Relevant content for today's lecture.
     -   [Galaxy](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/debruijn-graph-assembly/slides-plain.html)
     -   [Data science for HTS](https://data-science-sequencing.github.io/Win2018/lectures/lecture7/)
     -   [SPAdes assembler](https://doi.org/10.1089/cmb.2012.0021)
-    -   [Online graph builder](https://0petya.github.io/debruijn-assembler/). Note that they use k<sub>node</sub> values.
 
 <!-- ## Presentation
 
