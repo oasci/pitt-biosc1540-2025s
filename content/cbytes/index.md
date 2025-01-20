@@ -8,20 +8,7 @@
 CBytes are bite-sized programming challenges designed to deepen your understanding of computational biology concepts through hands-on practice.
 Whether you're just starting with Python or you're a seasoned coder, CBytes offer engaging, tiered exercises tailored to your skill level.
 
-### Earn Advanced Training Points (ATP)
-
-As you complete CBytes, you'll earn **Advanced Training Points (ATP)**, a currency exclusive to our course.
-ATPs not only reward your effort but also unlock class-wide benefits such as:
-
--   Extend a project or quiz deadline
--   Drop your lowest quiz or assignment score
--   Earn other collective rewards based on ATP milestones.
-
-!!! danger "DRAFT"
-
-    These rewards are still in the works.
-
-### Why Participate?
+## Why Participate?
 
 Participating in CBytes is more than just solving programming challenges—it’s an opportunity to enhance your learning by applying concepts from class to practical, real-world problems.
 These challenges are designed to reinforce your understanding and provide hands-on experience that goes beyond traditional coursework.
@@ -34,7 +21,7 @@ Perhaps most exciting, your efforts don’t just benefit you—they create real 
 The ATP you earn can unlock perks that everyone enjoys, such as extended deadlines or the ability to drop a low score.
 By participating, you’re contributing to a shared success that helps everyone achieve their best.
 
-### How It Works
+## How It Works
 
 CBytes are released weekly, offering you the chance to practice and strengthen your computational biology skills.
 Here's how they’re structured and what you can expect.
@@ -78,7 +65,33 @@ If any rules are violated, the following consequences will apply:
 -   Students found breaking the rules will lose the ability to participate in future CByte challenges.
     This includes forfeiting the opportunity to earn ATP or gain access to related rewards.
 
-### Who Developed CBytes?
+## Advanced Training Points (ATP)
+
+As you complete CBytes, you'll earn **Advanced Training Points (ATP)**, a currency exclusive to our course.
+ATPs not only reward your effort but also unlock class-wide benefits.
+
+1.  **Checkpoint Submission Feedback** (??? ATP)
+    Allow students to submit part of their homework early (e.g., one or two questions) and receive feedback from the instructor or TA before the full deadline.
+2.  **Homework Extension** (??? ATP)  
+    Extend the due date of all future homework assignments by one day.
+    Assignments typically due on Fridays will now be due on Saturdays, giving students additional time to complete their work.
+    Homework will still be released on the same schedule, maintaining consistency while providing extra flexibility for busy weeks.
+3.  **Extended Instructor Office Hours** (??? ATP)  
+    Unlock an additional weekly office hour tailored to fit the class's schedule.
+    The instructor will send out a poll to identify the most convenient time for students, ensuring broad participation.
+4.  **Quiz Hint** (??? ATP)
+    Empower the class to collectively decide which specific question or section of the following quiz they'd like a hint for by participating in a poll.
+5.  **Final Exam Cheat Sheet** (??? ATP)  
+    Unlock the ability for students to bring a handwritten cheat sheet (e.g., one 8.5" x 11" page) to the final exam.
+6.  **Interactive Workshop on Advanced Topics** (??? ATP)  
+    Unlock an engaging, hands-on workshop focusing on advanced computational techniques or cutting-edge developments in computational biology.
+    Students will vote on the topic, ensuring it aligns with their interests and learning goals.
+7.  **Drop the Lowest Quiz Score** (??? ATP)  
+    Alleviate stress by allowing the class to drop their single lowest quiz score.
+8.  **Class Social Event** (??? ATP)  
+    Enjoy a class-wide social event where the instructor will provide breakfast-like snacks and coffee sourced from a local Oakland café of the students' choosing.
+
+## Who Developed CBytes?
 
 CBytes are brought to you by **César Guerra-Solano**, under the guidance of Dr. Alex Maldonado, through the **Chancellor's Undergraduate Teaching Fellowship**.
 This initiative bridges the gap between computational biology concepts and real-world applications, creating a sustainable resource for current and future students.
