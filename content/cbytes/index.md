@@ -88,7 +88,7 @@ ATPs not only reward your effort but also unlock class-wide benefits.
     Students will vote on the topic, ensuring it aligns with their interests and learning goals.
 7.  **Drop the Lowest Quiz Score** (20,000 ATP)
     Alleviate stress by allowing the class to drop their single lowest quiz score.
-8.  **Class Social Event** (23,000 ATP)
+8.  **Class Social Event** (30,000 ATP)
     Enjoy a class-wide social event where the instructor will provide breakfast-like snacks and coffee sourced from a local Oakland café of the students' choosing.
 
 ## Who Developed CBytes?
