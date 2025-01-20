@@ -10,35 +10,35 @@ Whether you're just starting with Python or you're a seasoned coder, CBytes offe
 
 ## Why Participate?
 
-Participating in CBytes is more than just solving programming challenges—it’s an opportunity to enhance your learning by applying concepts from class to practical, real-world problems.
+Participating in CBytes is more than just solving programming challenges—it's an opportunity to enhance your learning by applying concepts from class to practical, real-world problems.
 These challenges are designed to reinforce your understanding and provide hands-on experience that goes beyond traditional coursework.
 
 CBytes also foster a collaborative and competitive environment.
-As you tackle each challenge, you’ll have the chance to share insights, learn from your peers, and see how your skills measure up on the class leaderboard.
-It’s a fun and engaging way to build a sense of community while sharpening your computational biology expertise.
+As you tackle each challenge, you'll have the chance to share insights, learn from your peers, and see how your skills measure up on the class leaderboard.
+It's a fun and engaging way to build a sense of community while sharpening your computational biology expertise.
 
-Perhaps most exciting, your efforts don’t just benefit you—they create real rewards for the entire class.
+Perhaps most exciting, your efforts don't just benefit you—they create real rewards for the entire class.
 The ATP you earn can unlock perks that everyone enjoys, such as extended deadlines or the ability to drop a low score.
-By participating, you’re contributing to a shared success that helps everyone achieve their best.
+By participating, you're contributing to a shared success that helps everyone achieve their best.
 
 ## How It Works
 
 CBytes are released weekly, offering you the chance to practice and strengthen your computational biology skills.
-Here's how they’re structured and what you can expect.
+Here's how they're structured and what you can expect.
 
 **1. Weekly Challenges**
 Each Friday (starting on Jan 17) at 11:59 pm, a new CByte will be made available.
 These challenges are directly tied to material covered in class but may also introduce advanced programming concepts to stretch your skills.
-You’ll have two weeks to complete the challenge and earn ATP.
+You'll have two weeks to complete the challenge and earn ATP.
 After this period, you can still submit solutions for practice, but ATP rewards will no longer be available.
 
 **2. Three-Tiered Difficulty Levels**
 Each CByte is divided into three progressive parts, starting with beginner-friendly problems and gradually increasing in complexity.
 The challenges are designed to build on one another, encouraging you to develop a deeper understanding of the material as you advance.
-While the problems relate to lecture content, they also encourage you to explore programming techniques that go beyond what’s covered in class.
+While the problems relate to lecture content, they also encourage you to explore programming techniques that go beyond what's covered in class.
 
 **3. Immediate Feedback Through Gradescope**
-Once you’re ready to submit your work, Gradescope’s autograder will evaluate your solutions and provide instant feedback.
+Once you're ready to submit your work, Gradescope's autograder will evaluate your solutions and provide instant feedback.
 Most test cases will be visible to help you debug your code and learn from mistakes, but a few hidden tests will challenge your ability to fully solve the problem.
 Your ATP rewards will be calculated automatically, giving you a clear sense of your progress.
 
@@ -57,7 +57,7 @@ These tools undermine the purpose of the challenges, which is to develop your ow
 
 **7. Consequences**
 Participation in CBytes is a privilege designed to enhance your learning and reward your efforts.
-To maintain a fair and engaging experience for everyone, adherence to the program’s rules is mandatory.
+To maintain a fair and engaging experience for everyone, adherence to the program's rules is mandatory.
 If any rules are violated, the following consequences will apply:
 
 -   Any ATP earned through the program will be revoked and converted to **Alex Disapproval Points (ADP)**, rendering them void.
