@@ -70,25 +70,25 @@ If any rules are violated, the following consequences will apply:
 As you complete CBytes, you'll earn **Advanced Training Points (ATP)**, a currency exclusive to our course.
 ATPs not only reward your effort but also unlock class-wide benefits.
 
-1.  **Checkpoint Submission Feedback** (??? ATP)
+1.  **Checkpoint Submission Feedback** (2,000 ATP)
     Allow students to submit part of their homework early (e.g., one or two questions) and receive feedback from the instructor or TA before the full deadline.
-2.  **Homework Extension** (??? ATP)  
+2.  **Homework Extension** (5,000 ATP)
     Extend the due date of all future homework assignments by one day.
     Assignments typically due on Fridays will now be due on Saturdays, giving students additional time to complete their work.
     Homework will still be released on the same schedule, maintaining consistency while providing extra flexibility for busy weeks.
-3.  **Extended Instructor Office Hours** (??? ATP)  
+3.  **Extended Instructor Office Hours** (8,000 ATP)
     Unlock an additional weekly office hour tailored to fit the class's schedule.
-    The instructor will send out a poll to identify the most convenient time for students, ensuring broad participation.
-4.  **Quiz Hint** (??? ATP)
-    Empower the class to collectively decide which specific question or section of the following quiz they'd like a hint for by participating in a poll.
-5.  **Final Exam Cheat Sheet** (??? ATP)  
+    The instructor will send out a poll to identify the most convenient time for students.
+4.  **Quiz Hint** (11,000 ATP)
+    Empower the class to collectively decide which section/topic of the following quiz they'd like a hint for by participating in a poll.
+5.  **Final Exam Cheat Sheet** (14,000 ATP)
     Unlock the ability for students to bring a handwritten cheat sheet (e.g., one 8.5" x 11" page) to the final exam.
-6.  **Interactive Workshop on Advanced Topics** (??? ATP)  
+6.  **Interactive Workshop on Advanced Topics** (17,000 ATP)
     Unlock an engaging, hands-on workshop focusing on advanced computational techniques or cutting-edge developments in computational biology.
     Students will vote on the topic, ensuring it aligns with their interests and learning goals.
-7.  **Drop the Lowest Quiz Score** (??? ATP)  
+7.  **Drop the Lowest Quiz Score** (20,000 ATP)
     Alleviate stress by allowing the class to drop their single lowest quiz score.
-8.  **Class Social Event** (??? ATP)  
+8.  **Class Social Event** (23,000 ATP)
     Enjoy a class-wide social event where the instructor will provide breakfast-like snacks and coffee sourced from a local Oakland café of the students' choosing.
 
 ## Who Developed CBytes?
