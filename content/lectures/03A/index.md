@@ -30,22 +30,10 @@ Relevant content for today's lecture.
 -   [Genome assembly](https://omics.crumblearn.org/genomics/assembly/)
 -   [Assembly concepts](https://omics.crumblearn.org/genomics/assembly/concepts/) and nested content
 
-<!-- ## Presentation
+## Presentation
 
--   **View:** [slides.com/aalexmmaldonado/biosc1540-l04](https://slides.com/aalexmmaldonado/biosc1540-l04)
+-   **View:** [slides.com/aalexmmaldonado/biosc1540-l03a](https://slides.com/aalexmmaldonado/biosc1540-l03a)
 -   **Live link:** [slides.com/d/KOit8yE/live](https://slides.com/d/KOit8yE/live)
--   **Download:** [biosc1540-l04.pdf](/lectures/04/biosc1540-l04.pdf)
+-   **Download:** [biosc1540-l03a.pdf](/lectures/03A/biosc1540-l03a.pdf)
 
-<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l04/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 04" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
-
-<!--
-
-- Students were not really engaged with hands-on practice. I guess this is fine since they can practice it later.
-- I ended early, so if I take out the activities, I certainly have time to add in a galaxy activity or the OLC.
-- I had a good question about why we take k-mers, then make k-1 mers for nodes. Why not just straightly make k-1 mer nodes.
-- I'm not sure it was useful to include the error correction.
-- I think I need to add in a little more information about how actual assemblers build contigs from de bruijn graphs. For example, graph traversal using depth-first earch or Eulerian path algorithm. Handling branches, handling repeats. Maybe we should talk about how spades does it.
-- I'm also confused on if graphs need to have Eulerian walks.
-- I'm not sold on the notation of k mers for length of nodes or edges.
-
- -->
+<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l03a/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 03A" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
