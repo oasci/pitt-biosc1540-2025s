@@ -18,7 +18,7 @@ The session also covers SPAdes' methodology, emphasizing multi-sized graphs and 
 
 After today, you should have a better understanding of:
 
-1.  Problem formulation of genome assembly
+1.  Problem formulation of genome assembly.
 2.  The greedy algorithm for genome assembly.
 3.  De Bruijn graphs and their role in assembly.
 4.  Graph traversal methods for extracting contigs.
