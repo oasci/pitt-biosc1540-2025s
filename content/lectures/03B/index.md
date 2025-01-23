@@ -22,7 +22,6 @@ After today, you should have a better understanding of:
 2.  The greedy algorithm for genome assembly.
 3.  De Bruijn graphs and their role in assembly.
 4.  Graph traversal methods for extracting contigs.
-5.  Practical prokaryotic genome assembly with SPAdes.
 
 ## Supplementary material
 
