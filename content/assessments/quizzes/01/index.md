@@ -11,6 +11,16 @@
     </object>
 </p>
 
-!!! danger "DRAFT"
+## Lectures
 
-    This page is a work in progress and is subject to change at any moment.
+Here are the lectures this quiz will cover.
+
+-   [DNA sequencing: Foundations](../../../lectures/02A/)
+-   [DNA sequencing: Methodology](../../../lectures/02B/)
+-   [Genome assembly: Foundations](../../../lectures/03A/)
+-   [Genome assembly: Methodology](../../../lectures/03B/)
+
+## Relevant past exams
+
+-   [2024 Fall](https://pitt-biosc1540-2024f.oasci.org/assessments/exams/bioinformatics/)
+-   [2024 Spring](https://pitt-biosc1540-2024f.oasci.org/assessments/exams/bioinformatics/#past-exams)
