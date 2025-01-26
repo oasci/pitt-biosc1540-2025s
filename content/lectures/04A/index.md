@@ -9,7 +9,6 @@
     <b>Date:</b> Jan 28, 2024
 </p>
 
-
 !!! danger "DRAFT"
 
     This page is a work in progress and is subject to change at any moment.
@@ -21,11 +20,9 @@ We'll explore various computational methods used in gene annotation, their appli
 
 By the end of this lecture, you should be able to:
 
-1.  Explain the graph traversal and contig extraction process in genome assemblers.
-2.  Understand key output files and quality metrics of genome assembly results.
-3.  Define gene annotation and describe its key components.
-4.  Outline the main computational methods used in gene prediction and annotation.
-5.  Analyze and interpret basic gene annotation data and outputs.
+1.  Define gene annotation and describe its key components.
+2.  Outline the main computational methods used in gene prediction and annotation.
+3.  Analyze and interpret basic gene annotation data and outputs.
 
 ## Supplementary material
 
@@ -35,8 +32,8 @@ Relevant content for today's lecture.
 
 <!-- ## Presentation
 
--   **View:** [slides.com/aalexmmaldonado/biosc1540-l05](https://slides.com/aalexmmaldonado/biosc1540-l05)
+-   **View:** [slides.com/aalexmmaldonado/biosc1540-l04a](https://slides.com/aalexmmaldonado/biosc1540-l04a)
 -   **Live link:** [slides.com/d/t7LRp0A/live](https://slides.com/d/t7LRp0A/live)
--   **Download:** [biosc1540-l05.pdf](/lectures/05/biosc1540-l05.pdf)
+-   **Download:** [biosc1540-l04a.pdf](/lectures/04A/biosc1540-l04a.pdf)
 
-<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l05/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 05" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l04a/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 04A" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
