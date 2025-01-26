@@ -131,4 +131,20 @@
     --md-admonition-fg-color:            #ffffff;
     --md-admonition-bg-color:            #212529;
 
+    .highlight-ipynb {
+        margin: 0;
+        padding: 5px 10px;
+        background-color: #23262A;
+    }
+
+    .jupyter-wrapper .jp-InputArea-editor {
+        position: relative;
+        border-color: #30363C;
+    }
+
+    .jupyter-wrapper .highlight pre {
+        background-color: transparent;
+        padding: 10px;
+        overflow: auto;
+    }
 }
