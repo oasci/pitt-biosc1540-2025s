@@ -1,6 +1,6 @@
 <h1 style="margin-bottom: 0.4em; text-align: center;">
     <b>Lecture 04A</b><br>
-    Genome annotation
+    Gene prediction
 </h1>
 <h2 style="margin-top: 0.0em; text-align: center;">
     Foundations

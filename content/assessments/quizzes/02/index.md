@@ -15,8 +15,8 @@
 
 Here are the lectures this quiz will cover.
 
--   [Genome annotation: Foundations](../../../lectures/04A/)
--   [Genome annotation: Methodology](../../../lectures/04B/)
+-   [Gene prediction: Foundations](../../../lectures/04A/)
+-   [Gene prediction: Methodology](../../../lectures/04B/)
 -   [Sequence alignment: Foundations](../../../lectures/05A/)
 -   [Sequence alignment: Methodology](../../../lectures/05B/)
 -   [Read mapping: Foundations](../../../lectures/06A/)

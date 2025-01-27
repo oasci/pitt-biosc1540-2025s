@@ -3,7 +3,7 @@
     Assignment D
 </h1>
 <h2 style="margin-top: 0.0em; text-align: center;">
-    Genome annotation
+    Gene prediction
 </h2>
 
 <p style="text-align: center;">

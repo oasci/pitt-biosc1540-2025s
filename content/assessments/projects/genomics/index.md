@@ -60,7 +60,7 @@ They use [SPAdes](https://ablab.github.io/spades/) to reconstruct bacterial geno
 Quality metrics such as N50 and contig count are explored using [QUAST](https://github.com/ablab/quast), and assemblies are visualized in [Bandage](https://rrwick.github.io/Bandage/).
 This stage emphasizes computational evaluation of assembly performance and introduces students to challenges in reconstructing genomic data.
 
-### Genome Annotation (P01D)
+### Gene Prediction (P01D)
 
 Next, students annotate their assembled genomes to identify coding sequences, rRNAs, tRNAs, and other genomic features.
 Using [Prokka](https://academic.oup.com/bioinformatics/article/30/14/2068/2390517), they generate detailed annotations for both parental and evolved genomes.

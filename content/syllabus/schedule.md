@@ -35,12 +35,12 @@ Afterwards, we will cover structure prediction, molecular simulations, and compu
 
 **Tuesday** (Jan 28) [**Lecture 04A**](../../lectures/04A/)
 
--   <b>Topics:</b>  Genome annotation <span style="color: #B8B8B8;">(Foundations)</span>
+-   <b>Topics:</b>  Gene prediction <span style="color: #B8B8B8;">(Foundations)</span>
 -   Quiz 01
 
 **Thursday** (Jan 30) [**Lecture 04B**](../../lectures/04B/)
 
--   <b>Topics:</b>  Genome annotation <span style="color: #B8B8B8;">(Methodology)</span>
+-   <b>Topics:</b>  Gene prediction <span style="color: #B8B8B8;">(Methodology)</span>
 
 ### Week 5
 
