@@ -9,21 +9,21 @@
     <b>Date:</b> Jan 30, 2024
 </p>
 
-
 !!! danger "DRAFT"
 
     This page is a work in progress and is subject to change at any moment.
 
-This lecture covers the fundamental concepts and techniques of gene annotation, a critical process in genomics for identifying and characterizing genes within DNA sequences.
-We'll explore various computational methods used in gene annotation, their applications, and challenges.
+TODO:
 
-## Learning Objectives
+## Learning objectives
 
-By the end of this lecture, you should be able to:
+After today, you should have a better understanding of:
 
-1.  Define gene annotation and describe its key components.
-2.  Outline the main computational methods used in gene prediction and annotation.
-3.  Analyze and interpret basic gene annotation data and outputs.
+1.  Problem formulation of gene prediction.
+2.  The fundamentals of probability and its role in modeling biological data.
+3.  The concept of Markov models and how they describe sequential dependencies.
+4.  The structure and purpose of Hidden Markov Models (HMM) in gene prediction.
+5.  How to interpret the components of an HMM.
 
 ## Supplementary material
 

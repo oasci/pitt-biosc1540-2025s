@@ -13,16 +13,16 @@
 
     This page is a work in progress and is subject to change at any moment.
 
-This lecture covers the fundamental concepts and techniques of gene annotation, a critical process in genomics for identifying and characterizing genes within DNA sequences.
-We'll explore various computational methods used in gene annotation, their applications, and challenges.
+TODO:
 
-## Learning Objectives
+## Learning objectives
 
-By the end of this lecture, you should be able to:
+After today, you should have a better understanding of:
 
-1.  Define gene annotation and describe its key components.
-2.  Outline the main computational methods used in gene prediction and annotation.
-3.  Analyze and interpret basic gene annotation data and outputs.
+1.  The biological importance of gene prediction and genome annotation.
+2.  Key differences and challenges of prokaryotic and eukaryotic gene prediction.
+3.  The principles behind *ab initio* and homology-based gene prediction approaches.
+4.  Practical examples of gene prediction tools and how to interpret their outputs.
 
 ## Supplementary material
 
