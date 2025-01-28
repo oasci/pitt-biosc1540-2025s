@@ -9,12 +9,6 @@
     <b>Date:</b> Jan 28, 2024
 </p>
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
-TODO:
-
 ## Learning objectives
 
 After today, you should have a better understanding of:
@@ -28,12 +22,12 @@ After today, you should have a better understanding of:
 
 Relevant content for today's lecture.
 
--   None! Just the lecture.
+-   TODO: I will add these by Wednesday.
 
-<!-- ## Presentation
+## Presentation
 
 -   **View:** [slides.com/aalexmmaldonado/biosc1540-l04a](https://slides.com/aalexmmaldonado/biosc1540-l04a)
 -   **Live link:** [slides.com/d/t7LRp0A/live](https://slides.com/d/t7LRp0A/live)
 -   **Download:** [biosc1540-l04a.pdf](/lectures/04A/biosc1540-l04a.pdf)
 
-<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l04a/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 04A" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l04a/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 04A" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
