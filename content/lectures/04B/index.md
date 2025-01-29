@@ -23,18 +23,18 @@ After today, you should have a better understanding of:
 2.  The fundamentals of probability and its role in modeling biological data.
 3.  The concept of Markov models and how they describe sequential dependencies.
 4.  The structure and purpose of Hidden Markov Models (HMM) in gene prediction.
-5.  How to interpret the components of an HMM.
+5.  How to Predict Genes with an HMM.
 
 ## Supplementary material
 
 Relevant content for today's lecture.
 
--   None! Just the lecture.
+-   TODO: I will add these by Friday.
 
 <!-- ## Presentation
 
 -   **View:** [slides.com/aalexmmaldonado/biosc1540-l04b](https://slides.com/aalexmmaldonado/biosc1540-l04b)
--   **Live link:** [slides.com/d/t7LRp0A/live](https://slides.com/d/t7LRp0A/live)
+-   **Live link:** [slides.com/d/bkToHb0/live](https://slides.com/d/bkToHb0/live)
 -   **Download:** [biosc1540-l04b.pdf](/lectures/04B/biosc1540-l04b.pdf)
 
 <iframe src="https://slides.com/aalexmmaldonado/biosc1540-l04b/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 04B" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
