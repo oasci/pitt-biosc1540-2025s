@@ -11,6 +11,8 @@
     </object>
 </p>
 
+[Quiz](./quiz01.pdf) and [key](./quiz01-key.pdf)
+
 ## Lectures
 
 Here are the lectures this quiz will cover.
