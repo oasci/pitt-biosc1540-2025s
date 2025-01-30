@@ -9,10 +9,6 @@
     <b>Date:</b> Jan 30, 2024
 </p>
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
 TODO:
 
 ## Learning objectives
@@ -31,10 +27,10 @@ Relevant content for today's lecture.
 
 -   TODO: I will add these by Friday.
 
-<!-- ## Presentation
+## Presentation
 
 -   **View:** [slides.com/aalexmmaldonado/biosc1540-l04b](https://slides.com/aalexmmaldonado/biosc1540-l04b)
 -   **Live link:** [slides.com/d/bkToHb0/live](https://slides.com/d/bkToHb0/live)
 -   **Download:** [biosc1540-l04b.pdf](/lectures/04B/biosc1540-l04b.pdf)
 
-<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l04b/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 04B" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l04b/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 04B" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
