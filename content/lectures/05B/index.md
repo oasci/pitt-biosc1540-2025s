@@ -37,9 +37,8 @@ Relevant content for today's lecture.
 
 <!-- ## Presentation
 
--   **View:** [slides.com/aalexmmaldonado/biosc1540-l06](https://slides.com/aalexmmaldonado/biosc1540-l06)
--   **Live link:** [slides.com/d/jwdlkhM/live](https://slides.com/d/jwdlkhM/live)
--   **Download:** [biosc1540-l06.pdf](/lectures/06/biosc1540-l06.pdf)
+-   **View:** [slides.com/aalexmmaldonado/biosc1540-l05b](https://slides.com/aalexmmaldonado/biosc1540-l05b)
+-   **Live link:** [slides.com/d/0y5mCfU/live](https://slides.com/d/0y5mCfU/live)
+-   **Download:** [biosc1540-l05b.pdf](/lectures/l05B/biosc1540-l05b.pdf)
 
-<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l06/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 06" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
-
+<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l05b/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 05B" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
