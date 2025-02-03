@@ -32,7 +32,7 @@ Relevant content for today's lecture.
 
 -   Any scientific literature.
 
-What you should be able to do after today's lecture:
+After today, you should have a better understanding of:
 
 1.  Drug development pipeline.
 2.  Role of structure-based drug design.

@@ -19,7 +19,7 @@ The session will cover key experimental methods like X-ray crystallography and c
 
 ## Learning objectives
 
-What you should be able to do after today's lecture:
+After today, you should have a better understanding of:
 
 1.  Categorize atomic interactions and their importance.
 2.  Explain what is structural biology and why is it important.

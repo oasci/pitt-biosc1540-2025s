@@ -21,7 +21,7 @@ Through practical examples, students will learn to interpret gene expression res
 
 ## Learning objectives
 
-What you should be able to do after today's lecture:
+After today, you should have a better understanding of:
 
 1.  Discuss the importance of normalization and quantification in RNA-seq data analysis.
 2.  Explain the relevance of pseudoalignment instead of read mapping.

@@ -18,7 +18,7 @@ We'll walk through the steps involved in preparing a system for simulation.
 
 ## Learning objectives
 
-What you should be able to do after today's lecture:
+After today, you should have a better understanding of:
 
 1.  Explain why DHFR is a promising drug target.
 2.  Select and prepare a protein structure for molecular simulations.

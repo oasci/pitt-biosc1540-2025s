@@ -10,7 +10,7 @@ This inaugural lecture serves as a broad introduction to the field of computatio
 
 ## Learning objectives
 
-What you should be able to do after today's lecture:
+After today, you should have a better understanding of:
 
 1.  Identify your teaching team.
 2.  Describe the course structure, expectations, and available resources for success.

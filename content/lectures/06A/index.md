@@ -18,7 +18,7 @@ By the end of this lecture, you'll have a comprehensive understanding of transcr
 
 ## Learning objectives
 
-What you should be able to do after today's lecture:
+After today, you should have a better understanding of:
 
 1.  Define transcriptomics and explain its role in understanding gene expression patterns.
 2.  Discuss emerging trends in transcriptomics.
@@ -59,7 +59,7 @@ We'll examine how these techniques are implemented in popular alignment tools an
 
 ## Learning objectives
 
-What you should be able to do after today's lecture:
+After today, you should have a better understanding of:
 
 1.  Describe the challenges of aligning short reads to a large reference genome.
 2.  Compare read alignment algorithms, including hash-based and suffix tree-based approaches.

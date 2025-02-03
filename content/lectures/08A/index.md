@@ -18,7 +18,7 @@ This lecture explores differential gene expression analysis, a powerful approach
 
 ## Learning objectives
 
-What you should be able to do after today's lecture:
+After today, you should have a better understanding of:
 
 1.  Define differential gene expression and explain its importance.
 2.  Describe the statistical principles underlying differential expression analysis.

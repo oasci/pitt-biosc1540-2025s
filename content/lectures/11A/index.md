@@ -19,7 +19,7 @@ We'll examine the principles underlying these methods, their applications, and t
 
 ## Learning objectives
 
-What you should be able to do after today's lecture:
+After today, you should have a better understanding of:
 
 1.  Why are we learning about protein structure prediction?
 2.  Identify what makes structure prediction challenging.

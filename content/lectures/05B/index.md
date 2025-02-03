@@ -19,7 +19,7 @@ We will cover the basics of alignment scoring, key algorithms for both pairwise 
 
 ## Learning objectives
 
-What you should be able to do after today's lecture:
+After today, you should have a better understanding of:
 
 1.  Define sequence alignment and explain its importance in bioinformatics.
 2.  Describe the basic principles of scoring systems in sequence alignment.
