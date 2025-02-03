@@ -9,7 +9,6 @@
     <b>Date:</b> Feb 4, 2024
 </p>
 
-
 !!! danger "DRAFT"
 
     This page is a work in progress and is subject to change at any moment.
@@ -21,19 +20,16 @@ We will cover the basics of alignment scoring, key algorithms for both pairwise 
 
 After today, you should have a better understanding of:
 
-1.  Why Sequence Alignment Matters
-2.  Describe the basic principles of scoring systems in sequence alignment.
-3.  Explain the principles and steps of global alignment using the Needleman-Wunsch algorithm.
-4.  Describe the concept and procedure of local alignment using the Smith-Waterman algorithm.
-5.  Introduce the concept of multiple sequence alignment, including its importance and challenges.
+1.  Why sequence alignment matters.
+2.  Conceptual interpretation of alignment results.
+3.  Pairwise versus multiple sequence alignment.
+4.  Visualizing and utilizing alignment outputs.
 
 ## Supplementary material
 
 Relevant content for today's lecture.
 
--   [Global alignment](https://omics.crumblearn.org/alignment/pairwise/global/)
--   [Local alignment](https://omics.crumblearn.org/alignment/pairwise/local/)
--   Online tools for [Needleman-Wunsch](http://rna.informatik.uni-freiburg.de/Teaching/index.jsp?toolName=Needleman-Wunsch) and [Smith-Waterman](http://rna.informatik.uni-freiburg.de/Teaching/index.jsp?toolName=Smith-Waterman).
+-   TODO:
 
 <!-- ## Presentation
 

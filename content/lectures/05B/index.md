@@ -9,7 +9,6 @@
     <b>Date:</b> Feb 6, 2024
 </p>
 
-
 !!! danger "DRAFT"
 
     This page is a work in progress and is subject to change at any moment.
@@ -21,11 +20,10 @@ We will cover the basics of alignment scoring, key algorithms for both pairwise 
 
 After today, you should have a better understanding of:
 
-1.  Define sequence alignment and explain its importance in bioinformatics.
-2.  Describe the basic principles of scoring systems in sequence alignment.
-3.  Explain the principles and steps of global alignment using the Needleman-Wunsch algorithm.
-4.  Describe the concept and procedure of local alignment using the Smith-Waterman algorithm.
-5.  Introduce the concept of multiple sequence alignment, including its importance and challenges.
+1.  Dynamic programming basics in bioinformatics.
+2.  Needleman‐Wunsch algorithm (global alignment).
+3.  Smith‐Waterman algorithm (local alignment).
+4.  Efficient alignment with indexing techniques.
 
 ## Supplementary material
 
