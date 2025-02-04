@@ -23,7 +23,6 @@ After today, you should have a better understanding of:
 1.  Why sequence alignment matters.
 2.  Conceptual interpretation of alignment results.
 3.  Pairwise versus multiple sequence alignment.
-4.  Visualizing and utilizing alignment outputs.
 
 ## Supplementary material
 
