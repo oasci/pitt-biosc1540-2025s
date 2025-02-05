@@ -13,7 +13,7 @@ After today, you should have a better understanding of:
 1.  Insights and limitations of pairwise sequence alignment.
 2.  Speed and capabilities of BLAST.
 3.  Seed-and-extend algorithm.
-4.  Statistical significance of BLAST alignments
+4.  Seeding the lookup table.
 
 ## Presentation
 
