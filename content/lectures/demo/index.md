@@ -15,10 +15,6 @@ After today, you should have a better understanding of:
 3.  Seed-and-extend algorithm.
 4.  Statistical significance of BLAST alignments
 
-## Activity
-
-You can find the Google Colab notebook [here](./blast.ipynb).
-
 ## Presentation
 
 -   **View:** [slides.com/aalexmmaldonado/pitt-teaching-demo](https://slides.com/aalexmmaldonado/pitt-teaching-demo)
