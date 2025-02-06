@@ -17,6 +17,10 @@ After today, you should have a better understanding of:
 2.  Needleman‐Wunsch algorithm (global alignment).
 3.  Smith‐Waterman algorithm (local alignment).
 
+## Activity
+
+You can find the Python activity [here](./activity-nw.ipynb).
+
 ## Supplementary material
 
 Relevant content for today's lecture.
