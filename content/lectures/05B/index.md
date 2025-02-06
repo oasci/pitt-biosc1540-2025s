@@ -9,13 +9,6 @@
     <b>Date:</b> Feb 6, 2024
 </p>
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
-In this lecture, we will explore sequence alignment, a fundamental technique in computational biology.
-We will cover the basics of alignment scoring, key algorithms for both pairwise and multiple sequence alignments, and learn how to interpret alignment results.
-
 ## Learning objectives
 
 After today, you should have a better understanding of:
@@ -32,6 +25,9 @@ Relevant content for today's lecture.
 -   [Global alignment](https://omics.crumblearn.org/alignment/pairwise/global/)
 -   [Local alignment](https://omics.crumblearn.org/alignment/pairwise/local/)
 -   Online tools for [Needleman-Wunsch](http://rna.informatik.uni-freiburg.de/Teaching/index.jsp?toolName=Needleman-Wunsch) and [Smith-Waterman](http://rna.informatik.uni-freiburg.de/Teaching/index.jsp?toolName=Smith-Waterman).
+-   Burrows-Wheeler transform
+    -   [Omics website](https://omics.crumblearn.org/appendices/algorithms/compression/bwt/)
+    -   [JHU](https://www.cs.jhu.edu/~langmea/resources/lecture_notes/10_bwt_and_fm_index_v2.pdf)
 
 <!-- ## Presentation
 
