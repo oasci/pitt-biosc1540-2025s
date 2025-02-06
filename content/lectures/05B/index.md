@@ -33,6 +33,6 @@ Relevant content for today's lecture.
 
 -   **View:** [slides.com/aalexmmaldonado/biosc1540-l05b](https://slides.com/aalexmmaldonado/biosc1540-l05b)
 -   **Live link:** [slides.com/d/0y5mCfU/live](https://slides.com/d/0y5mCfU/live)
--   **Download:** [biosc1540-l05b.pdf](/lectures/l05B/biosc1540-l05b.pdf)
+-   **Download:** [biosc1540-l05b.pdf](/lectures/05B/biosc1540-l05b.pdf)
 
 <iframe src="https://slides.com/aalexmmaldonado/biosc1540-l05b/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 05B" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
