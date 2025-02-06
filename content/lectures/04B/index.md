@@ -21,11 +21,11 @@ After today, you should have a better understanding of:
 4.  The structure and purpose of Hidden Markov Models (HMM) in gene prediction.
 5.  How to Predict Genes with an HMM.
 
-## Supplementary material
+<!-- ## Supplementary material
 
 Relevant content for today's lecture.
 
--   TODO: I will add these by Friday.
+-   TODO: -->
 
 ## Presentation
 

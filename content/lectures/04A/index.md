@@ -18,11 +18,11 @@ After today, you should have a better understanding of:
 3.  The principles behind *ab initio* and homology-based gene prediction approaches.
 4.  Practical examples of gene prediction tools and how to interpret their outputs.
 
-## Supplementary material
+<!-- ## Supplementary material
 
 Relevant content for today's lecture.
 
--   TODO: I will add these by Wednesday.
+-   TODO: -->
 
 ## Presentation
 
