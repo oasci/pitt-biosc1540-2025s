@@ -51,6 +51,8 @@ By the end of this CByte, you will have gained experience with methods utilized 
 
 ## Finding Open Reading Frames (ORFs)
 
+**ATP possible:** 20
+
 Dealing with these alien genomes shouldn't be too bad!
 You remember from your lecture that open reading frames are the key to finding genes&mdash;while not every one *is* a gene, a gene will certainly be one of them!
 Your lab mentor agrees, and thankfully, they've gotten their hands on some of the alien start and stop codons!
@@ -97,6 +99,8 @@ def return_open_reading_frames(
 ```
 
 ## Coding Scores
+
+**ATP possible:** 30
 
 Now that you have all of those ORFs, you lab mentor has devised a *devilish* plan that has never been before seen (ever! trust me!)&mdash;you're going to score them.
 And get this! You're not only going to score them, young undergrad, but you're going to score them based on hexamers!
@@ -152,6 +156,8 @@ def score_orf_coding(
 ```
 
 ## Rules From Out of this World!
+
+**ATP possible:** 50
 
 Turns out, the aliens weren't even that bad! In fact, one of the aliens&mdash;err, I mean, one of your new colleagues&mdash;was proficient in Python, and is now a part of your lab!
 In talking with them, you find out a ton of interesting things&mdash;they're an Eagles fan (do they even get cable on their planet?), they make a mean risotto, they actually know of additional scoring methods for genes, they've always dreamed of becoming an acto- wait a second, what was that last one? Additional scoring methods?
