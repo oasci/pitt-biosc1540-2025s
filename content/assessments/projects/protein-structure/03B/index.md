@@ -1,5 +1,5 @@
 <h1 style="margin-bottom: 0.4em; text-align: center;">
-    <b>Project 3</b><br>
+    <b>Project 03</b><br>
     Assignment B
 </h1>
 <h2 style="margin-top: 0.0em; text-align: center;">
