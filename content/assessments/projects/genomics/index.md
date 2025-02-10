@@ -66,8 +66,8 @@ Next, students annotate their assembled genomes to identify coding sequences, rR
 Using [Prokka](https://academic.oup.com/bioinformatics/article/30/14/2068/2390517), they generate detailed annotations for both parental and evolved genomes.
 By comparing annotations, students gain insights into the functional differences between the isolates, building their ability to interpret genomic data in a biological context.
 
-### Sequence Alignment and Comparative Genomics (P01E)
+<!-- ### Sequence Alignment and Comparative Genomics (P01E)
 
 The final assignment focuses on identifying genetic changes associated with antibiotic resistance.
 Students align annotated genomes against a reference using [snippy](https://github.com/tseemann/snippy), uncovering single nucleotide polymorphisms (SNPs) and structural variations.
-They correlate these changes with observed resistance levels, tying their bioinformatics analyses back to real-world phenotypes.
+They correlate these changes with observed resistance levels, tying their bioinformatics analyses back to real-world phenotypes. -->
