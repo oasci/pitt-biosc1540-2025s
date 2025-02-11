@@ -18,7 +18,7 @@ After today, you should have a better understanding of:
 1.  How transcriptomics extends beyond genomics.
 2.  The role of RNA-seq in modern transcriptomics.
 3.  Why read mapping is essential for transcriptomics.
-4.  Possible read alignment approaches.
+4.  Read alignment approaches.
 
 ## Supplementary material
 
