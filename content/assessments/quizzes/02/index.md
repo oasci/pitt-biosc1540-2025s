@@ -20,7 +20,6 @@ Here are the lectures this quiz will cover.
 -   [Sequence alignment: Foundations](../../../lectures/05A/)
 -   [Sequence alignment: Methodology](../../../lectures/05B/)
 -   [Read mapping: Foundations](../../../lectures/06A/)
--   [Read mapping: Methodology](../../../lectures/06B/)
 
 ## Relevant past exams
 
