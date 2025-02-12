@@ -16,11 +16,11 @@ The session will focus on the Burrows-Wheeler Transform (BWT) and the FM-index, 
 
 After today, you should have a better understanding of:
 
-1.  Why read mapping is a computationally challenging problem.
-2.  Limitations of hash-based methods.
-3.  Suffix arrays for substring searching.
-4.  Burrows-Wheeler Transform (BWT) string compression.
-5.  FM-indexing for fast substring searches.
+1.  The purpose of reference-based mapping.
+2.  Burrows-Wheeler Transform (BWT) string compression.
+3.  FM-index for efficient substring searches.
+4.  Hash-based methods for handling introns.
+5.  Suffix arrays for efficient substring searches.
 6.  Splice-aware mapping with seed-chain-extend strategy.
 
 ## Supplementary material
