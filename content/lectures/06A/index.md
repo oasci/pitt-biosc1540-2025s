@@ -28,16 +28,9 @@ Relevant content for today's lecture.
 
 ## Presentation
 
-<!-- -   **View:** [slides.com/aalexmmaldonado/biosc1540-l06a](https://slides.com/aalexmmaldonado/biosc1540-l06a) -->
+-   **View:** [slides.com/aalexmmaldonado/biosc1540-l06a](https://slides.com/aalexmmaldonado/biosc1540-l06a)
 -   **Live link:** [slides.com/d/A8DqST8/live](https://slides.com/d/A8DqST8/live)
 <!-- -   **Download:** [biosc1540-l06a.pdf](/lectures/06A/biosc1540-l06a.pdf) -->
 
 <iframe src="https://slides.com/aalexmmaldonado/biosc1540-l06a/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 06A" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
 
-<!--
-Notes:
-
--   Need to spend more time on RIN; this was confusing to the students.
--   Lecture ran short, so can add more information.
-
- -->
