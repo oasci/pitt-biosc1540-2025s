@@ -29,6 +29,11 @@ Relevant content for today's lecture.
 -   [Local alignment](https://omics.crumblearn.org/alignment/pairwise/local/)
 -   Online tools for [Needleman-Wunsch](http://rna.informatik.uni-freiburg.de/Teaching/index.jsp?toolName=Needleman-Wunsch) and [Smith-Waterman](http://rna.informatik.uni-freiburg.de/Teaching/index.jsp?toolName=Smith-Waterman).
 
+Old videos.
+
+-   [Needleman-Wunsch](https://vimeo.com/910987118?share=copy#t=0) and [traceback](https://vimeo.com/911026525?share=copy#t=0).
+-   [Smith-Waterman](https://vimeo.com/912799940?share=copy#t=0)
+
 ## Presentation
 
 -   **View:** [slides.com/aalexmmaldonado/biosc1540-l05b](https://slides.com/aalexmmaldonado/biosc1540-l05b)

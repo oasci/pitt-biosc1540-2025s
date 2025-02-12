@@ -16,9 +16,9 @@ The session will focus on the Burrows-Wheeler Transform (BWT) and the FM-index, 
 
 After today, you should have a better understanding of:
 
-1.  Why read mapping is a hard problem and how we might approach solving it.
+1.  Why read mapping is a computationally challenging problem.
 2.  Basic read mapping strategies and their inefficiencies.
-3.  Suffix Arrays and Searching Without Storing Every k-mer.
+3.  Suffix arrays and searching without storing every k-mer.
 4.  Burrows-Wheeler Transform (BWT) and FM-index for Efficient Read Mapping.
 
 ## Supplementary material
