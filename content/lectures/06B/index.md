@@ -37,10 +37,10 @@ Relevant content for today's lecture.
 -   FM-index
     -   [Omics website](https://omics.crumblearn.org/appendices/algorithms/search/fm-index/)
 
-<!-- ## Presentation
+## Presentation
 
 -   **View:** [slides.com/aalexmmaldonado/biosc1540-l06b](https://slides.com/aalexmmaldonado/biosc1540-l06b)
 -   **Live link:** [slides.com/d/v69HoBk/live](https://slides.com/d/v69HoBk/live)
 -   **Download:** [biosc1540-l06b.pdf](/lectures/06B/biosc1540-l06b.pdf)
 
-<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l06b/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 08" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l06b/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 06B" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
