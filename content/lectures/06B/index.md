@@ -17,10 +17,10 @@ The session will focus on the Burrows-Wheeler Transform (BWT) and the FM-index, 
 After today, you should have a better understanding of:
 
 1.  The purpose of reference-based mapping.
-2.  Burrows-Wheeler Transform (BWT) string compression.
-3.  FM-index for efficient substring searches.
-4.  Hash-based methods for handling introns.
-5.  Suffix arrays for efficient substring searches.
+2.  Hash-based methods for handling introns.
+3.  Suffix arrays for efficient substring searches.
+4.  Burrows-Wheeler Transform (BWT) string compression.
+5.  FM-index for efficient substring searches.
 6.  Splice-aware mapping with seed-chain-extend strategy.
 
 ## Supplementary material
@@ -44,4 +44,3 @@ Relevant content for today's lecture.
 -   **Download:** [biosc1540-l06b.pdf](/lectures/06B/biosc1540-l06b.pdf)
 
 <iframe src="https://slides.com/aalexmmaldonado/biosc1540-l06b/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 08" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
-
