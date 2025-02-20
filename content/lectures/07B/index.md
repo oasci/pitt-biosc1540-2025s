@@ -17,7 +17,7 @@ After today, you should have a better understanding of:
 2.  Generative models for RNA quantification.
 3.  Probability optimization instead of generation.
 4.  Probability maximization with inference.
-5.  Methodology with Python a implementation.
+5.  Methodology with [a Python implementation](./salmon.ipynb).
 
 ## Supplementary material
 
