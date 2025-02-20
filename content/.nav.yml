@@ -1,0 +1,16 @@
+nav:
+  - index.md
+  - syllabus
+  - modules
+  - lectures
+  - assessments
+  - CBytes: cbytes
+  - team.md
+  - students.md
+
+sort:
+  type: natural
+  ignore_case: true
+  by: title
+  direction: asc
+flatten_single_child_sections: true
