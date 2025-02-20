@@ -6,4 +6,4 @@ nav:
     - Grading: grading.md
     - Attendance: attendance.md
     - Policies: policies.md
-    - ...
+    - "*"
