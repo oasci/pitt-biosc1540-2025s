@@ -1,3 +1,5 @@
 nav:
-    - Transcriptomics: index.md
-    - "*"
+  - Transcriptomics: index.md
+  - "02A"
+  - "02B"
+  - "02C"

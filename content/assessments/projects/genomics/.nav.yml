@@ -1,3 +1,6 @@
 nav:
-    - Genomics: index.md
-    - "*"
+  - Genomics: index.md
+  - "01A"
+  - "01B"
+  - "01C"
+  - "01D"
