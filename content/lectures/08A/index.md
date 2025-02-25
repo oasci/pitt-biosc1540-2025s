@@ -9,22 +9,16 @@
     <b>Date:</b> Feb 25, 2025
 </p>
 
-
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
 This lecture explores differential gene expression analysis, a powerful approach for uncovering the molecular basis of biological phenomena.
 
 ## Learning objectives
 
 After today, you should have a better understanding of:
 
-1.  Define differential gene expression and explain its importance.
-2.  Describe the statistical principles underlying differential expression analysis.
-3.  Outline the steps in a typical differential expression analysis workflow.
-4.  Explain key concepts such as fold change, p-value, and false discovery rate.
-5.  Interpret common visualizations used in differential expression analysis.
+1.  Hypothesis testing for comparing gene expression.
+2.  Reliable statistical models for gene expression data.
+3.  Fitting statistical models.
+4.  Likelihood ratio test.
 
 ## Supplementary material
 
@@ -32,10 +26,10 @@ Relevant content for today's lecture.
 
 -   None! Just the slides.
 
-<!-- ## Presentation
+## Presentation
 
 -   **View:** [slides.com/aalexmmaldonado/biosc1540-l10](https://slides.com/aalexmmaldonado/biosc1540-l10)
 -   **Live link:** [slides.com/d/uhBDP3A/live](https://slides.com/d/uhBDP3A/live)
--   **Download:** [biosc1540-l10.pdf](/lectures/10/biosc1540-l10.pdf)
+-   **Download:** [biosc1540-l08a.pdf](/lectures/08A/biosc1540-l10.pdf)
 
-<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l10/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 10" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l08a/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 08A" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
