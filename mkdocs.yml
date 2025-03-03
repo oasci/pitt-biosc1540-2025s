@@ -104,7 +104,6 @@ extra_css:
   - https://cdn.jsdelivr.net/npm/molstar@latest/build/viewer/molstar.css
 
 extra_javascript:
-  - js/mathjax.js
   - js/d3.js
 
 markdown_extensions:
