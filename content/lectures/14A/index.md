@@ -36,11 +36,11 @@ Relevant content for today's lecture if you are interested.
 
 <!-- ## Presentation
 
--   **View:** [slides.com/aalexmmaldonado/biosc1540-l14](https://slides.com/aalexmmaldonado/biosc1540-l14-eb4e42)
+-   **View:** [slides.com/aalexmmaldonado/biosc1540-l14a](https://slides.com/aalexmmaldonado/biosc1540-l14a)
 -   **Live link:** [slides.com/d/Du95WE4/live](https://slides.com/d/Du95WE4/live)
--   **Download:** [biosc1540-l14.pdf](/lectures/14/biosc1540-l14.pdf)
+-   **Download:** [biosc1540-l14a.pdf](/lectures/14A/biosc1540-l14a.pdf)
 
-<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l14-eb4e42/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 14" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l14a/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 14A" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
 
 This final lecture in the MD series focuses on the analysis and interpretation of MD simulation data.
 We'll explore common analysis techniques and how to extract meaningful biological insights from simulation trajectories.
@@ -54,25 +54,3 @@ After today, you should better understand:
 3.  Relaxation and production MD simulations.
 4.  RMSD and RMSF as conformational changes and flexibility metrics.
 5.  Relationship between probability and energy in simulations.
-
-## Supplementary material
-
-Relevant content for today's lecture.
-
--   Any scientific literature.
-
-<!-- ## Presentation
-
--   **View:** [slides.com/aalexmmaldonado/biosc1540-l15](https://slides.com/aalexmmaldonado/biosc1540-l15)
--   **Live link:** [slides.com/d/QSAvIIo/live](https://slides.com/d/QSAvIIo/live)
--   **Download:** [biosc1540-l15.pdf](/lectures/15/biosc1540-l15.pdf)
-
-<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l15/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 15" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
-
-<!--
-Notes
-
-- To explain the MD sampling aspect (one long vs. three short), you can use getting from one building to another.
-- PMF is a little complicated to explain the meaning, probably just emphasize that it is a "kind" of energy (e.g., kinetic vs. potential).
-
--->

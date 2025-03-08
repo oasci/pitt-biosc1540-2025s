@@ -22,8 +22,8 @@ After today, you should have a better understanding of:
 
 <!-- ## Presentation
 
--   **View:** [slides.com/aalexmmaldonado/biosc1540-l18](https://slides.com/aalexmmaldonado/biosc1540-l18)
+-   **View:** [slides.com/aalexmmaldonado/biosc1540-l13a](https://slides.com/aalexmmaldonado/biosc1540-l13a)
 -   **Live link:** [slides.com/d/9oH5ukw/live](https://slides.com/d/9oH5ukw/live)
--   **Download:** [biosc1540-l18.pdf](/lectures/18/biosc1540-l18.pdf)
+-   **Download:** [biosc1540-l13a.pdf](/lectures/13A/biosc1540-l13a.pdf)
 
-<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l18/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 18" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l13a/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 13A" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->

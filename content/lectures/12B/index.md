@@ -30,8 +30,8 @@ After today, you should have a better understanding of:
 
 <!-- ## Presentation
 
--   **View:** [slides.com/aalexmmaldonado/biosc1540-l17](https://slides.com/aalexmmaldonado/biosc1540-l17)
+-   **View:** [slides.com/aalexmmaldonado/biosc1540-l12b](https://slides.com/aalexmmaldonado/biosc1540-l12b)
 -   **Live link:** [slides.com/d/LPBvUgQ/live](https://slides.com/d/LPBvUgQ/live)
--   **Download:** [biosc1540-l17.pdf](/lectures/17/biosc1540-l17.pdf)
+-   **Download:** [biosc1540-l12b.pdf](/lectures/12B/biosc1540-l12b.pdf)
 
-<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l17/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 17" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l12b/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 12B" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->

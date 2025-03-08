@@ -40,3 +40,11 @@ After today, you should have a better understanding of:
 4.  Enthalpic contributions to binding.
 5.  Entropic contributions to binding
 6.  Alchemical free energy simulations
+
+<!-- ## Presentation
+
+-   **View:** [slides.com/aalexmmaldonado/biosc1540-l10a](https://slides.com/aalexmmaldonado/biosc1540-l10a)
+-   **Live link:** [slides.com/d/nZdKKIA/live](https://slides.com/d/nZdKKIA/live)
+-   **Download:** [biosc1540-l10a.pdf](/lectures/10A/biosc1540-l10a.pdf)
+
+<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l10a/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 10A" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->

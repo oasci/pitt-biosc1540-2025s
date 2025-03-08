@@ -33,11 +33,11 @@ Relevant content for today's lecture if you are interested.
 
 <!-- ## Presentation
 
--   **View:** [slides.com/aalexmmaldonado/biosc1540-l14](https://slides.com/aalexmmaldonado/biosc1540-l14-eb4e42)
+-   **View:** [slides.com/aalexmmaldonado/biosc1540-l14c](https://slides.com/aalexmmaldonado/biosc1540-l14c-eb4e42)
 -   **Live link:** [slides.com/d/Du95WE4/live](https://slides.com/d/Du95WE4/live)
--   **Download:** [biosc1540-l14.pdf](/lectures/14/biosc1540-l14.pdf)
+-   **Download:** [biosc1540-l14c.pdf](/lectures/14C/biosc1540-l14c.pdf)
 
-<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l14-eb4e42/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 14" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l14c-eb4e42/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 14C" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
 
 This final lecture in the MD series focuses on the analysis and interpretation of MD simulation data.
 We'll explore common analysis techniques and how to extract meaningful biological insights from simulation trajectories.
