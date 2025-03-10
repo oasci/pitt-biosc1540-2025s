@@ -9,25 +9,17 @@
     <b>Date:</b> Mar 25, 2025
 </p>
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
-We'll explore how amino acid sequences are transformed into three-dimensional structures through computational methods.
-The session will cover various approaches, from traditional homology modeling to cutting-edge deep learning techniques like AlphaFold.
-We'll examine the principles underlying these methods, their applications, and their impact on biological research.
+This foundational lecture introduces students to the concept and significance of protein structure prediction. Students will explore why predicting protein structures from sequences is essential, identify key challenges, and understand major computational strategies such as homology modeling, threading, contact maps, and machine learning approaches, including AlphaFold.
 
 ## Learning objectives
 
 After today, you should have a better understanding of:
 
-1.  Why are we learning about protein structure prediction?
-2.  Identify what makes structure prediction challenging.
-3.  Explain homology modeling.
-4.  Know when to use threading instead of homology modeling.
-5.  Interpret a contact map for protein structures.
-6.  Comprehend how coevolution provides structural insights.
-7.  Explain why ML models are dominate protein structure prediction.
+1.  The significance and challenges of protein structure prediction.
+2.  Principles behind homology modeling and threading.
+3.  The concept and interpretation of contact maps.
+4.  How coevolutionary signals inform structural predictions.
+5.  Why machine learning is transformative in structure prediction.
 
 ## Supplementary material
 
@@ -41,4 +33,30 @@ Relevant content for today's lecture.
 -   **Live link:** [slides.com/d/nZdKKIA/live](https://slides.com/d/nZdKKIA/live)
 -   **Download:** [biosc1540-l11a.pdf](/lectures/11A/biosc1540-l11a.pdf)
 
-<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l11a/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 11A" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l11a/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 11A" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Why Predict Protein Structures?
+
+    Biological significance and practical applications.
+
+Challenges in Structure Prediction
+
+    Complexity, limitations, and accuracy issues.
+
+Homology Modeling
+
+    Conceptual overview and practical relevance.
+
+Threading (Fold Recognition)
+
+    When and why threading is preferred.
+
+Contact Maps and Coevolution
+
+    How contacts inform structure predictions.
+
+Machine Learning in Structure Prediction
+
+    AlphaFold’s approach and impact.
+
+-->

@@ -9,26 +9,15 @@
     <b>Date:</b> Mar 27, 2025
 </p>
 
-
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
-We'll explore how amino acid sequences are transformed into three-dimensional structures through computational methods.
-The session will cover various approaches, from traditional homology modeling to cutting-edge deep learning techniques like AlphaFold.
-We'll examine the principles underlying these methods, their applications, and their impact on biological research.
+Students will apply computational approaches to protein structure prediction.
+Students will engage practically with homology modeling software, interpret AlphaFold-generated structures, and evaluate model quality and accuracy using visualization software.
 
 ## Learning objectives
 
 After today, you should have a better understanding of:
 
-1.  Why are we learning about protein structure prediction?
-2.  Identify what makes structure prediction challenging.
-3.  Explain homology modeling.
-4.  Know when to use threading instead of homology modeling.
-5.  Interpret a contact map for protein structures.
-6.  Comprehend how coevolution provides structural insights.
-7.  Explain why ML models are dominate protein structure prediction.
+1.  How to practically perform protein structure prediction.
+2.  Assessing and validating predicted protein structures.
 
 ## Supplementary material
 
@@ -42,4 +31,24 @@ Relevant content for today's lecture.
 -   **Live link:** [slides.com/d/nZdKKIA/live](https://slides.com/d/nZdKKIA/live)
 -   **Download:** [biosc1540-l11b.pdf](/lectures/11B/biosc1540-l11b.pdf)
 
-<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l11b/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 11B" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l11b/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 11B" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Performing Homology Modeling
+
+    Practical session with SWISS-MODEL or related tools.
+
+Working with AlphaFold Predictions
+
+    Accessing predicted structures from AlphaFold databases.
+
+Visual Analysis and Validation
+
+    Using PyMOL to align, compare, and analyze predicted structures.
+    Evaluating structural reliability and accuracy.
+
+Hands-on Activity
+
+    Predicting a protein structure from an amino acid sequence using homology modeling.
+    Analysis and critical assessment of the predicted structures.
+
+-->

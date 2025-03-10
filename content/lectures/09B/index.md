@@ -9,25 +9,15 @@
     <b>Date:</b> Mar 13, 2025
 </p>
 
-!!! danger "DRAFT"
-
-    This page is a work in progress and is subject to change at any moment.
-
-This lecture introduces the field of computational structural biology and its interplay with experimental methods.
-We'll explore how computational approaches complement and enhance traditional structural biology techniques, providing insights into protein structure, function, and dynamics.
-The session will cover key experimental methods like X-ray crystallography and cryo-EM, highlighting their strengths and limitations.
+This methodology lecture introduces students to computational tools and databases essential for structural biology. Practical training involves accessing and analyzing protein structures from databases such as UniProt and the Protein Data Bank (PDB), along with an introduction to visualization tools like PyMOL for structural exploration and atomic model interpretation.
 
 ## Learning objectives
 
 After today, you should have a better understanding of:
 
-1.  Categorize atomic interactions and their importance.
-2.  Explain what is structural biology and why is it important.
-3.  Communicate the basics of X-ray crystallization.
-4.  Find and analyze protein structures in the Protein Data Bank (PDB).
-5.  Compare and contrast Cryo-EM to X-ray crystallization.
-6.  Understand the experimental challenges of disorder.
-7.  Know why protein structure prediction is helpful.
+1.  How to locate and interpret protein structure data from UniProt and PDB.
+2.  Basic functionalities of PyMOL software for visualization.
+3.  Interpreting electron density maps and atomic models.
 
 ## Supplementary material
 
@@ -41,4 +31,25 @@ Relevant content for today's lecture.
 -   **Live link:** [slides.com/d/Wv7MTEU/live](https://slides.com/d/Wv7MTEU/live)
 -   **Download:** [biosc1540-l09b.pdf](/lectures/09B/biosc1540-l09b.pdf)
 
-<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l09b/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 09B" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l09b/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 09B" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Navigating Protein Structure Databases
+
+    UniProt: finding sequence and functional data.
+    Protein Data Bank (PDB): searching for structural data.
+
+Introduction to PyMOL
+
+    Loading and viewing structures.
+    Basic manipulation and visualization.
+
+Analyzing Structures
+
+    Interpreting electron density.
+    Atomic model fitting basics.
+
+Hands-on Activity
+
+    Exploration of a selected protein structure using PyMOL.
+
+-->
