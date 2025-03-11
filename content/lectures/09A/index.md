@@ -23,9 +23,13 @@ After today, you should have a better understanding of:
 
 ## Supplementary material
 
-Relevant content for today's lecture.
+Relevant content and readings for today's lecture.
 
--   None! Just the lecture.
+-   **Proteins:** [Lehninger - Chapter 3](https://canvas.pitt.edu/files/20012972)
+-   **Protein structure:** [Lehninger - Chapter 4](https://canvas.pitt.edu/files/20012973) and [Kuriyan, Konforti, Wemmer - Chapter 4](https://canvas.pitt.edu/files/20012971)
+-   **X-ray diffraction:** [Allen - Chapter 15](https://canvas.pitt.edu/files/20012941), [Kalidas, Sangaranarayanan - Chapter 31](https://canvas.pitt.edu/files/20012969) and [Coumar - Chapter 6](https://canvas.pitt.edu/files/20012944)
+-   **Electron microscopy:** [Coumar - Chapter 7](https://canvas.pitt.edu/files/20012968)
+-   **Structure analysis:** [Pal - Chapter 6](https://canvas.pitt.edu/files/20014521)
 
 <!-- ## Presentation
 
@@ -34,29 +38,5 @@ Relevant content for today's lecture.
 -   **Download:** [biosc1540-l09a.pdf](/lectures/09A/biosc1540-l09a.pdf)
 
 <iframe src="https://slides.com/aalexmmaldonado/biosc1540-l09a/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 09A" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-Introduction to Structural Biology
-
-    Why study protein structures?
-    Relevance in biology and medicine.
-
-Atomic Interactions
-
-    Hydrogen bonds, ionic interactions, van der Waals, hydrophobic interactions.
-    Biological examples of atomic interactions.
-
-X-ray Crystallography
-
-    Fundamental principles and process.
-    Advantages and disadvantages.
-
-Cryo-Electron Microscopy (Cryo-EM)
-
-    Conceptual overview.
-    Comparisons to crystallography in practice.
-
-Challenges and Limitations
-
-    Disorder and structural heterogeneity.
 
  -->
