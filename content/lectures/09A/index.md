@@ -19,7 +19,7 @@ After today, you should have a better understanding of:
 1.  The definition and biological importance of structural biology.
 2.  Types and biological significance of atomic interactions.
 3.  Basic principles of X-ray crystallography and Cryo-electron microscopy.
-4.  Challenges such as protein disorder.
+4.  The challenge of protein disorder.
 
 ## Supplementary material
 
