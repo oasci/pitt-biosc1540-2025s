@@ -4,9 +4,6 @@ Structural databases play a crucial role in computational biology by providing a
 These databases serve as essential resources for researchers seeking to understand molecular function, design drugs, and model biological interactions at the atomic level.
 Unlike sequence databases, which store linear amino acid or nucleotide sequences, structural databases contain atomic coordinate data that describe the precise spatial arrangement of atoms within a molecule.
 
-A variety of structural databases exist, each serving a specific function depending on the type of data they contain and how it was obtained.
-Among the most widely used are the Protein Data Bank (PDB), the AlphaFold Database (AlphaFoldDB), and the Electron Microscopy Data Bank (EMDB).
-
 The **Protein Data Bank (PDB)** is the primary repository for experimentally determined macromolecular structures.
 It contains data derived from techniques such as X-ray crystallography, nuclear magnetic resonance (NMR) spectroscopy, and cryo-electron microscopy (cryo-EM).
 Because these structures are based on experimental evidence, they are considered highly reliable.
