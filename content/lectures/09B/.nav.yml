@@ -1,2 +1,6 @@
 nav:
-    - "Lecture 09B - Methodology": index.md
+  - "Lecture 09B - Methodology": index.md
+  - db
+  - eval.md
+  - pymol.md
+  - gfp.md
