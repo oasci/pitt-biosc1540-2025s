@@ -11,6 +11,16 @@
     </object>
 </p>
 
-!!! danger "DRAFT"
+## Lectures
 
-    This page is a work in progress and is subject to change at any moment.
+Here are the lectures this quiz will cover.
+
+-   [Read mapping: Methodology](../../../lectures/06B/)
+-   [Quantification: Foundations](../../../lectures/07A/)
+-   [Quantification: Methodology](../../../lectures/07B/)
+-   [Differential gene expression: Foundations](../../../lectures/08A/)
+
+## Relevant past exams
+
+-   [2024 Fall](https://pitt-biosc1540-2024f.oasci.org/assessments/exams/bioinformatics/)
+-   [2024 Spring](https://pitt-biosc1540-2024f.oasci.org/assessments/exams/bioinformatics/#past-exams)
