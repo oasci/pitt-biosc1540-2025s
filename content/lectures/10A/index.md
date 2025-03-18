@@ -17,7 +17,7 @@ The lecture emphasizes noncovalent interactions and introduces the significance 
 
 After today, you should better understand:
 
-1.  Importance of atomistic-level insights in biology.
+1.  Molecular ensembles and their relevance.
 2.  Role of enthalpy and entropy in molecular interactions.
 3.  Noncovalent interactions influencing biological functions.
 4.  Importance of molecular flexibility and dynamics in biological activity.
