@@ -19,38 +19,13 @@ After today, you should better understand:
 
 1.  Molecular ensembles and their relevance.
 2.  Role of enthalpy and entropy in molecular interactions.
-3.  Noncovalent interactions influencing biological functions.
-4.  Importance of molecular flexibility and dynamics in biological activity.
+3.  Noncovalent interactions and enthalpy.
+4.  Entropy as molecular flexibility and dynamics.
 
-<!-- ## Presentation
+## Presentation
 
 -   **View:** [slides.com/aalexmmaldonado/biosc1540-l10a](https://slides.com/aalexmmaldonado/biosc1540-l10a)
--   **Live link:** [slides.com/d/nZdKKIA/live](https://slides.com/d/nZdKKIA/live)
+-   **Live link:** [slides.com/d/QSAvIIo/live](https://slides.com/d/QSAvIIo/live)
 -   **Download:** [biosc1540-l10a.pdf](/lectures/10A/biosc1540-l10a.pdf)
 
 <iframe src="https://slides.com/aalexmmaldonado/biosc1540-l10a/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 10A" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-Why Atomistic Detail Matters
-
-    Connection between structure, dynamics, and function.
-
-Thermodynamics in Biology
-
-    Conceptual overview of enthalpy (ΔH) and entropy (ΔS).
-    Relation to molecular binding.
-
-Noncovalent Interactions
-
-    Types and biological significance.
-    Examples in protein-ligand interactions.
-
-Introduction to Molecular Dynamics
-
-    Dynamics as essential to the full biological picture.
-    Brief conceptual overview: "We can study atomic motions using MD simulations (covered later in the semester)."
-
-Metrics of Flexibility and Dynamics
-
-    Brief introduction to RMSD and RMSF (conceptual, not computational).
-
--->
