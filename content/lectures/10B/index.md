@@ -51,77 +51,38 @@ These questions will help guide you through the interpreting simulation data.
 The [`select`](https://pymolwiki.org/index.php/Select) and [`center`](https://pymolwiki.org/index.php/Center) commands will come in handy.
 Remember to use your [selection algebra](https://pymolwiki.org/index.php/Selection_Algebra).
 
+All questions should be answered in the context of the very first frame of each simulation unless specified otherwise.
+
 ### Q01
 
-1. Align the cholesterol-binding domain of listeriolysin O (LLO), which includes residues 937–1051, in the first frame of your simulation.
-    Ensure that this domain is properly superimposed to enable meaningful structural comparisons.
-2. Calculate the root-mean-square deviation (RMSD) for the cholesterol-binding domain over the course of the simulation.
-    What does the RMSD value indicate about the stability of this domain?
-    Does the domain maintain its original conformation, or does it undergo significant structural deviations?
-3. Analyze the secondary structure of this domain throughout the simulation.
+1.  Align the cholesterol-binding domain of listeriolysin O (LLO), which includes residues 937-1051, of pH 5 to pH 7 in the first frame of your simulation.
+    What is the root-mean-square deviation (RMSD)?
+    Make sure you have loaded the trajectories into your PyMOL session.
+2.  Analyze the secondary structure of this domain throughout the simulation.
     What type of secondary structure (α-helices, β-sheets, or loops) is predominant in this region?
-    How does the secondary structure contribute to its ability to bind cholesterol?
 
 ### Q02
 
-1. Investigate the protonation state of His833 at different pH conditions.
+1.  Investigate the protonation state of His833 at different pH conditions.
     Compare the protonation state at neutral pH (7) versus an acidic pH (5).
     Does His833 gain or lose a proton in response to the pH change?
-2. Consider how changes in protonation state might alter noncovalent interactions involving His833.
+2.  Consider how changes in protonation state might alter noncovalent interactions involving His833.
     Identify nearby residues that interact with His833 at different pH levels.
     Does the change in protonation strengthen, weaken, or disrupt these interactions?
     Hint: Use the licorice representation to visualize the side chains of residues close to His833.
-3. Determine whether these altered interactions lead to structural changes in LLO.
+3.  Determine whether these altered interactions lead to structural changes in LLO.
     Does the LLO structure shift due to new or broken noncovalent interactions?
     If so, what regions of LLO are affected?
-4. Hypothesize how these structural and interaction changes might affect the binding of PrsA2 to LLO.
+4.  Hypothesize how these structural and interaction changes might affect the binding of PrsA2 to LLO.
     Could these modifications enhance or reduce the affinity of PrsA2 for LLO?
     What implications might this have for LLO’s function in different pH environments?
 
 ### Q03
 
-1. Analyze the noncovalent interactions between His972 and Asp958 at different pH levels.
-    What type of interaction (e.g., hydrogen bond, salt bridge, van der Waals) is present between these residues at pH 7?
-    Does this interaction change at pH 5?
-2. Identify specific heavy atoms (i.e., non-hydrogen atoms) that should be used to quantify this interaction.
-    Which atoms best represent the interaction at pH 7?
-    Do the key interacting atoms shift at pH 5?
-3. Track the distance between these atoms over the course of the simulation.
-    How does this distance fluctuate within each simulation?
-    How does it differ when comparing pH 7 and pH 5?
-4. Evaluate how these changes could impact the binding of PrsA2 to LLO.
-    If the His972-Asp958 interaction strengthens or weakens, what effect might this have on LLO’s overall structure?
-    Could this structural alteration enhance or reduce PrsA2’s ability to bind?
-
-### Q04
-
 1.  Examine the noncovalent interactions between His972 and Lys467 under different pH conditions.
     What type of interaction is present at pH 7?
-    Does this interaction change at pH 5?
-2.  Identify the heavy atoms that should be used to measure this interaction.
-    Which atoms are involved at pH 7?
-    Do these atoms differ at pH 5?
-3.  Measure the distances between these atoms throughout the simulation.
+2.  Measure the distances between the alpha carbon atoms in the first frame of pH 5 and pH 7 simulations.
     How does the distance fluctuate within each pH condition?
     How does it compare between pH 7 and pH 5?
-4.  Predict how these differences could impact the binding of PrsA2 to LLO.
-    If the interaction between His972 and Lys467 changes, does it affect LLO’s conformation?
+3.  Predict how these differences could impact the binding of PrsA2 to LLO.
     How might these structural adjustments influence PrsA2 binding affinity?
-
-### Q05
-
-1.  Investigate the interaction between His122 and His200 at different pH levels.
-    What type of noncovalent interaction exists between their side chains at pH 7?
-    Does this interaction change when the pH shifts to 5?
-2.  Identify the heavy atoms involved in these interactions.
-    Which atoms should be used to quantify this interaction at pH 7?
-    Are the interacting atoms the same at pH 5?
-3.  Track the distance between these atoms during the simulation.
-    How does the distance change within each simulation?
-    How do the distance trends compare between pH 7 and pH 5?
-4.  Analyze potential changes in the side-chain dihedral angles of His122 and His200.
-    Are there any significant dihedral shifts that might explain the observed interaction differences?
-    How do these dihedral angles influence the stability of the His122-His200 interaction?
-5.  Assess how these changes might affect the binding of PrsA2 to LLO.
-    Does the interaction between His122 and His200 play a role in stabilizing LLO’s structure?
-    If this interaction is altered, could it enhance or weaken PrsA2’s ability to bind?
