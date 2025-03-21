@@ -8,7 +8,10 @@ The course will have the following point distribution.
 !!! note
     Quizzes are designed to ensure you have a strong conceptual understanding of the material needed for the projects.
     To pass the course with a C or higher, your **quiz average must be at least 73%**.
+
     If your quiz average is below 73%, your overall course grade will be capped at a **C&ndash;**, regardless of your project grades.
+    Your final grade will be calculated as your average project grade $\times$ 0.72.
+    For example, with a project average of 78%, your final grade would be 0.78 $\times$ 0.72 $\times$ 100, which is 56.2%.
 
     Examples:
 
