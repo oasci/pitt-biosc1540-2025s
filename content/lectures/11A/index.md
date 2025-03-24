@@ -23,9 +23,13 @@ After today, you should have a better understanding of:
 
 ## Supplementary material
 
-Relevant content for today's lecture.
+Relevant content and readings for today's lecture.
 
--   None! Just the lecture.
+-   **Protein structure prediction:** [Schwede, Schwede, Peitsch - Chapter 1](https://canvas.pitt.edu/files/20161956), [Tripathi, Dubey - Chapter 23](https://canvas.pitt.edu/files/20161959)
+-   **Homology modeling:** [Coumar - Chapter 8](https://canvas.pitt.edu/files/20161955), [Bahar, Jernigan, Dill - Chapter 11](https://canvas.pitt.edu/files/20161954)
+-   **Threading:** [Schwede, Schwede, Peitsch - Chapter 2](https://canvas.pitt.edu/files/20161957), [Coumar - Chapter 8](https://canvas.pitt.edu/files/20161955), [Bahar, Jernigan, Dill - Chapter 11](https://canvas.pitt.edu/files/20161954)
+-   **Coevolution:** [Bahar, Jernigan, Dill - Chapter 11](https://canvas.pitt.edu/files/20161954)
+-   **Scoring functions:** [Schwede, Schwede, Peitsch - Chapter 3](https://canvas.pitt.edu/files/20161958)
 
 <!-- ## Presentation
 
