@@ -26,8 +26,8 @@ After today, you should have a better understanding of:
 Relevant content and readings for today's lecture.
 
 -   **Proteins:** [Lehninger - Chapter 3](https://canvas.pitt.edu/files/20012972)
--   **Protein structure:** [Lehninger - Chapter 4](https://canvas.pitt.edu/files/20012973) and [Kuriyan, Konforti, Wemmer - Chapter 4](https://canvas.pitt.edu/files/20012971)
--   **X-ray diffraction:** [Allen - Chapter 15](https://canvas.pitt.edu/files/20012941), [Kalidas, Sangaranarayanan - Chapter 31](https://canvas.pitt.edu/files/20012969) and [Coumar - Chapter 6](https://canvas.pitt.edu/files/20012944)
+-   **Protein structure:** [Lehninger - Chapter 4](https://canvas.pitt.edu/files/20012973); [Kuriyan, Konforti, Wemmer - Chapter 4](https://canvas.pitt.edu/files/20012971)
+-   **X-ray diffraction:** [Allen - Chapter 15](https://canvas.pitt.edu/files/20012941); [Kalidas, Sangaranarayanan - Chapter 31](https://canvas.pitt.edu/files/20012969); [Coumar - Chapter 6](https://canvas.pitt.edu/files/20012944)
 -   **Electron microscopy:** [Coumar - Chapter 7](https://canvas.pitt.edu/files/20012968)
 -   **Structure analysis:** [Pal - Chapter 6](https://canvas.pitt.edu/files/20014521)
 

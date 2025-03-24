@@ -26,9 +26,9 @@ After today, you should better understand:
 
 Relevant content and readings for today's lecture.
 
--   **Ensembles:** [Bahar, Jernigan, Dill - Chapter 3](https://canvas.pitt.edu/files/20161924), [Dill, Bromberg - Chapter 10](https://canvas.pitt.edu/files/20161929)
--   **Intermolecular interactions:** [Israelachvili - Chapter 2](https://canvas.pitt.edu/files/20161933), [Dill, Bromberg - Chapter 24](https://canvas.pitt.edu/files/20161932), [Bahar, Jernigan, Dill - Chapter 9](https://canvas.pitt.edu/files/20161925)
--   **Electrostatic:** [Israelachvili - Chapter 3](https://canvas.pitt.edu/files/20161934), [Dill, Bromberg - Chapter 20](https://canvas.pitt.edu/files/20161931)
+-   **Ensembles:** [Bahar, Jernigan, Dill - Chapter 3](https://canvas.pitt.edu/files/20161924); [Dill, Bromberg - Chapter 10](https://canvas.pitt.edu/files/20161929)
+-   **Intermolecular interactions:** [Israelachvili - Chapter 2](https://canvas.pitt.edu/files/20161933); [Dill, Bromberg - Chapter 24](https://canvas.pitt.edu/files/20161932); [Bahar, Jernigan, Dill - Chapter 9](https://canvas.pitt.edu/files/20161925)
+-   **Electrostatic:** [Israelachvili - Chapter 3](https://canvas.pitt.edu/files/20161934); [Dill, Bromberg - Chapter 20](https://canvas.pitt.edu/files/20161931)
 -   **Dipoles:** [Israelachvili - Chapter 4](https://canvas.pitt.edu/files/20161935)
 -   **Induction:** [Israelachvili - Chapter 5](https://canvas.pitt.edu/files/20161936)
 -   **Van der Waals:** [Israelachvili - Chapter 6](https://canvas.pitt.edu/files/20161937)
