@@ -22,6 +22,19 @@ After today, you should better understand:
 3.  Noncovalent interactions and enthalpy.
 4.  Entropy as molecular flexibility and dynamics.
 
+## Supplementary material
+
+Relevant content and readings for today's lecture.
+
+-   **Ensembles:** [Bahar, Jernigan, Dill - Chapter 3](https://canvas.pitt.edu/files/20161924), [Dill, Bromberg - Chapter 10](https://canvas.pitt.edu/files/20161929)
+-   **Intermolecular interactions:** [Israelachvili - Chapter 2](https://canvas.pitt.edu/files/20161933), [Dill, Bromberg - Chapter 24](https://canvas.pitt.edu/files/20161932), [Bahar, Jernigan, Dill - Chapter 9](https://canvas.pitt.edu/files/20161925)
+-   **Electrostatic:** [Israelachvili - Chapter 3](https://canvas.pitt.edu/files/20161934), [Dill, Bromberg - Chapter 20](https://canvas.pitt.edu/files/20161931)
+-   **Dipoles:** [Israelachvili - Chapter 4](https://canvas.pitt.edu/files/20161935)
+-   **Induction:** [Israelachvili - Chapter 5](https://canvas.pitt.edu/files/20161936)
+-   **Van der Waals:** [Israelachvili - Chapter 6](https://canvas.pitt.edu/files/20161937)
+-   **Hydrogen bonding:** [Israelachvili - Chapter 8](https://canvas.pitt.edu/files/20161940)
+-   **Entropy:** [Dill, Bromberg - Chapter 5](https://canvas.pitt.edu/files/20161927)
+
 ## Presentation
 
 -   **View:** [slides.com/aalexmmaldonado/biosc1540-l10a](https://slides.com/aalexmmaldonado/biosc1540-l10a)
