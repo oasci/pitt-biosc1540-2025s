@@ -11,6 +11,21 @@
     </object>
 </p>
 
-!!! danger "DRAFT"
+<!-- [Quiz](./quiz04.pdf) and [key](./quiz04-key.pdf) -->
 
-    This page is a work in progress and is subject to change at any moment.
+## Lectures
+
+Here are the lectures this quiz will cover.
+
+-   [Structural biology: Foundations](../../../lectures/09A/)
+-   [Structural biology: Methodology](../../../lectures/09B/)
+-   [Atomistic insight: Foundations](../../../lectures/10A/)
+-   [Atomistic insight: Methodology](../../../lectures/10B/)
+-   [Protein structure prediction: Foundations](../../../lectures/11A/)
+-   [Protein structure prediction: Methodology](../../../lectures/11B/)
+-   [Docking: Foundations](../../../lectures/12A/)
+
+## Relevant past exams
+
+-   [2024 Fall](https://pitt-biosc1540-2024f.oasci.org/assessments/exams/csb/)
+-   [2024 Spring](https://pitt-biosc1540-2024f.oasci.org/assessments/exams/csb/#past-exams)
