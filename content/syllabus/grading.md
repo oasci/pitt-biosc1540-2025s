@@ -72,36 +72,11 @@ Attendance and participation in all scheduled quizzes are essential for your suc
 However, we understand that unforeseen circumstances may arise.
 The following policy will apply to balance flexibility with maintaining academic standards.
 
-**No makeup quizzes will be offered** due to time constraints and the difficulty of creating equivalent assessments.
-Instead, flexibility will be built into the grading system.
+No individual makeup quizzes will be offered due to time constraints and the difficulty of creating equivalent assessments.
+Instead,
 
--   Your **lowest quiz grade will be dropped** automatically.
--   The cumulative final exam will replace all quiz grades lower than your final score.
-
-**Examples:**
-
-1.  **Case 1: Missed a Quiz**
-    -   Quiz grades: 85%, 90%, 95%, 80%
-    -   Final exam: 0%
-    -   Dropped grade: 0%
-    -   Total quiz grade: (85 + 90 + 95 + 80)/4 = 87.5%
-    -   **Outcome:** Skipping the final does not negatively affect your average.
-
-2.  **Case 2: Took the Final Exam and Scored Higher**
-    -   Quiz Grades: 70%, 75%, 65%, 80%
-    -   Final exam: 78%
-    -   Adjusted quiz grades: 78%, 78%, 78%, 80%
-    -   Dropped Grade: 78%
-    -   Total quiz grade: (78 + 78 + 78 + 80)/4 = 78.5%
-    -   **Outcome:** The final exam improved your overall quiz average.
-
-3.  **Case 3: All Quiz Grades Above the Final Exam**
-    -   Quiz grades: 88%, 90%, 85%, 92%
-    -   Final exam: 80%
-    -   Adjusted quiz grades: No replacement, as all quiz grades exceed the final exam.
-    -   Dropped grade: 80%
-    -   Total quiz grade: (88 + 90 + 85 + 92)/4 = 88.8%
-    -   **Outcome:** The final exam does not lower your average if your quiz grades are already strong.
+-   Your lowest quiz grade will be dropped automatically;
+-   [Makeup quizzes will be offered during the final exam session](./grading.md).
 
 ## Scale
 
