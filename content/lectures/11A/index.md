@@ -34,36 +34,10 @@ Relevant content and readings for today's lecture.
 -   **Coevolution:** [Bahar, Jernigan, Dill - Chapter 11](https://canvas.pitt.edu/files/20161954)
 -   **Scoring functions:** [Schwede, Schwede, Peitsch - Chapter 3](https://canvas.pitt.edu/files/20161958)
 
-<!-- ## Presentation
+## Presentation
 
 -   **View:** [slides.com/aalexmmaldonado/biosc1540-l11a](https://slides.com/aalexmmaldonado/biosc1540-l11a)
 -   **Live link:** [slides.com/d/nZdKKIA/live](https://slides.com/d/nZdKKIA/live)
 -   **Download:** [biosc1540-l11a.pdf](/lectures/11A/biosc1540-l11a.pdf)
 
 <iframe src="https://slides.com/aalexmmaldonado/biosc1540-l11a/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 11A" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-Why Predict Protein Structures?
-
-    Biological significance and practical applications.
-
-Challenges in Structure Prediction
-
-    Complexity, limitations, and accuracy issues.
-
-Homology Modeling
-
-    Conceptual overview and practical relevance.
-
-Threading (Fold Recognition)
-
-    When and why threading is preferred.
-
-Contact Maps and Coevolution
-
-    How contacts inform structure predictions.
-
-Machine Learning in Structure Prediction
-
-    AlphaFold’s approach and impact.
-
--->
