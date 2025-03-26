@@ -9,46 +9,47 @@
     <b>Date:</b> Mar 27, 2025
 </p>
 
-Students will apply computational approaches to protein structure prediction.
-Students will engage practically with homology modeling software, interpret AlphaFold-generated structures, and evaluate model quality and accuracy using visualization software.
+In this activity, you will predict protein structures of *Listeria monocytogenes* PrsA2.
 
-## Learning objectives
+```text
+> PrsA2
+CGGGGDVVKTDSGDVTKDELYDAMKDKYGSEFVQQLTFEKILGDKYKVSDE
+DVDKKFNEYKSQYGDQFSAVLTQSGLTEKSFKSQLKYNLLVQKATEANTDT
+SDKTLKKYYETWQPDITVSHILVADENKAKEVEQKLKDGEKFADLAKEYST
+DTATKDNGGQLAPFGPGKMDPAFEKAAYALKNKGDISAPVKTQYGYHIIQM
+DKPATKTTFEKDKKAVKASYLESQLTTENMQKTLKKEYKDANVKVEDKDLK
+DAFKDFDGSSSSDSDSSK
+```
 
-After today, you should have a better understanding of:
+## Homology model
 
-1.  How to practically perform protein structure prediction.
-2.  Assessing and validating predicted protein structures.
+[SWISS-MODEL](https://swissmodel.expasy.org/interactive)
 
-## Supplementary material
+[paper](https://doi.org/10.1093/nar/gky427)
 
-Relevant content for today's lecture.
+### Template search
 
--   None! Just the lecture.
+1.  Go to [SWISS-MODEL](https://swissmodel.expasy.org/interactive).
+2.  Copy and paste the PrsA2 FASTA file from above into the "Target Sequence(s)" textbox.
+3.  Click the "Search For Templates" button.
 
-<!-- ## Presentation
+SWISS-MODEL will search a custom database called the [SWISS-MODEL template library (SMTL)](https://doi.org/10.1093/nar/gku340), which originally contains structures from the [Protein Data Bank](https://www.rcsb.org/) and, more recently, the [AlphaFold Protein Structure Database](https://swissmodel.expasy.org/docs/blog#afdbTemplates).
 
--   **View:** [slides.com/aalexmmaldonado/biosc1540-l11b](https://slides.com/aalexmmaldonado/biosc1540-l11b)
--   **Live link:** [slides.com/d/nZdKKIA/live](https://slides.com/d/nZdKKIA/live)
--   **Download:** [biosc1540-l11b.pdf](/lectures/11B/biosc1540-l11b.pdf)
+**Question 1A:** What does [GMQE](https://swissmodel.expasy.org/docs/help#GMQE) stand for and how should it inform your template selection?
 
-<iframe src="https://slides.com/aalexmmaldonado/biosc1540-l11b/embed?byline=hidden&share=hidden" width="100%" height="600" title="BIOSC 1540: Lecture 11B" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+**Question 1B:** How does [QSQE](https://swissmodel.expasy.org/docs/help#oligo-state) compare to GMQE and when should it be used?
 
-Performing Homology Modeling
+**Question 1C:** What is the full label of the top scoring experimental template you should use?
 
-    Practical session with SWISS-MODEL or related tools.
+### Model building
 
-Working with AlphaFold Predictions
+1.  Select both `6vj4.1.A` and `5htf.1.B` in the list of Templates and click the "Build Models" button on the top right.
+    It can take a few minutes to build these models.
+2.  Once they are finished, open the "Structure Assessment" for each model.
 
-    Accessing predicted structures from AlphaFold databases.
+**Question 1D:** What is the Ramachandran plots showing you about the protein?
 
-Visual Analysis and Validation
+**Question 1E:** What are the key MolProbity Results and how should we interpret them?
+There should be at least three criteria.
 
-    Using PyMOL to align, compare, and analyze predicted structures.
-    Evaluating structural reliability and accuracy.
-
-Hands-on Activity
-
-    Predicting a protein structure from an amino acid sequence using homology modeling.
-    Analysis and critical assessment of the predicted structures.
-
--->
+**Question 1F:** What is the MolProbity score for `5htf.1.B`?
