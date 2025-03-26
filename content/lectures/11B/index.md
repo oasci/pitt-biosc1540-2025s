@@ -24,7 +24,7 @@ DAFKDFDGSSSSDSDSSK
 ## Homology model
 
 In this part of the activity, you will be using [SWISS-MODEL](https://doi.org/10.1093/nar/gky427) to predict protein structures.
-This homology modeling approach uses standard workflow of (1) searching for similar sequences
+This homology modeling approach uses standard workflow of (1) searching for similar sequences, (2) ranking structural templates and alignments, (3) building the structure from the selected templates, and (4) estimate the quality of the predicted structure.
 
 ### Template search
 
@@ -55,3 +55,15 @@ SWISS-MODEL will search a custom database called the [SWISS-MODEL template libra
 **Question 1F:** What is the MolProbity score for `5htf.1.B`?
 What does this mean?
 How does this compare to the model from `6vj4.1.A`, and what is your interpretation of this difference?
+
+## AlphaFold
+
+You will be using [AlphaFold 3](https://doi.org/10.1038/s41586-024-07487-w) to predict the same PrsA2 structure.
+
+1.  Go to the [AlphaFold Server](https://alphafoldserver.com/) and log into your account.
+    Please make an account if you do not already have one.
+2.  Ensure that you have one entity for the job where you can paste a sequence.
+    If there are no entities shown, just click the "Add entity" button on the left.
+3.  The entity type should be "Protein", Copies should be "2", and you should paste the whole FASTA sequence (including the `>` header).
+4.  Click "Continue and preview job" and check that the length of the protein sequence is `273`.
+5.  Click "Confirm and submit job" and wait a few minutes for the prediction to finish.
