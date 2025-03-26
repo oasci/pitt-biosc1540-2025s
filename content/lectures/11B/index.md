@@ -34,11 +34,11 @@ This homology modeling approach uses standard workflow of (1) searching for simi
 
 SWISS-MODEL will search a custom database called the [SWISS-MODEL template library (SMTL)](https://doi.org/10.1093/nar/gku340), which originally contains structures from the [Protein Data Bank](https://www.rcsb.org/) and, more recently, the [AlphaFold Protein Structure Database](https://swissmodel.expasy.org/docs/blog#afdbTemplates).
 
-**Question 1A:** What does GMQE stand for and how should it inform your template selection?
+**Question 1:** What does GMQE stand for and how should it inform your template selection?
 
-**Question 1B:** How does QSQE compare to GMQE and when should it be used?
+**Question 2:** How does QSQE compare to GMQE and when should it be used?
 
-**Question 1C:** What is the full label of the top scoring experimental template you should use?
+**Question 3:** What is the full label of the top scoring experimental template you should use?
 
 ### Model building
 
@@ -48,11 +48,11 @@ SWISS-MODEL will search a custom database called the [SWISS-MODEL template libra
     We will use these later.
 3.  Then, open the "Structure Assessment" for each model.
 
-**Question 1D:** How are you supposed to interpret Ramachandran plots of your protein structure prediction?
+**Question 4:** How are you supposed to interpret Ramachandran plots of your protein structure prediction?
 
-**Question 1E:** Why would SWISS-MODEL give separate Ramachandran plots for glycine and proline?
+**Question 5:** Why would SWISS-MODEL give separate Ramachandran plots for glycine and proline?
 
-**Question 1F:** What is the MolProbity score for `5htf.1.B`?
+**Question 6:** What is the MolProbity score for `5htf.1.B`?
 What does this mean?
 How does this compare to the model from `6vj4.1.A`, and what is your interpretation of this difference?
 
@@ -67,3 +67,19 @@ You will be using [AlphaFold 3](https://doi.org/10.1038/s41586-024-07487-w) to p
 3.  The entity type should be "Protein", Copies should be "2", and you should paste the whole FASTA sequence (including the `>` header).
 4.  Click "Continue and preview job" and check that the length of the protein sequence is `273`.
 5.  Click "Confirm and submit job" and wait a few minutes for the prediction to finish.
+6.  Once finished, click on the job name and then "Download" at the top.
+    Extract the zip file, which will contain `.cif` files which contain the predicted structures.
+    The file that ends in `model_0.cif` is the top scoring prediction from AlphaFold 3.
+
+**Question 7:** Explain plDDT and how is it computed.
+Are there any regions of the predicted protein structure that we should be more skeptical of?
+Why would AlphaFold 3 be less confident in these regions?
+Hint: Examine the biophysical properties of the last 10 amino acids of the protein sequence.
+Think about what non-covalent interactions would be present between these residues and water.
+
+**Question 8:** What is ipTM and how is it computed?
+How confident is AlphaFold 3 on this protein-protein interaction?
+
+## PyMOL
+
+TODO: Will have guiding questions on analyzing these structures.
