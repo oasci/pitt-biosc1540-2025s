@@ -106,15 +106,15 @@ sp|Q8Y759|PRSA1_LISMO      KILEDKYTVTEKEVNAEYKKYEEQYGDSFESTLSSNNLTKTSFKENLEYNLLV
 
 sp|Q8Y557|PRSA2_LISMO      TDTSDKTLKKYYETWQPDITVSHILVADENKAKEVEQKLKDGEKFADLAKEYSTDTATKD
 sp|Q8Y759|PRSA1_LISMO      MDVSESKLKAYYKTWEPDITVRHILVDDEATAKEIQTKLKNGEKFTDLAKEYSTDTATST
-                            *.*:..** **:**:***** **** ** .***:: ***:****:************. 
+                            *.*:..** **:**:***** **** ** .***:: ***:****:************.
 
 sp|Q8Y557|PRSA2_LISMO      NGGQLAPFGPGKMDPAFEKAAYALKNKGDISAPVKTQYGYHIIQMDKPATKTTFEKDKKA
 sp|Q8Y759|PRSA1_LISMO      NGGLLDPFGPGEMDETFEKAAYALENKDDVSGIVKSTYGYHLIQLVKKTEKGTYAKEKAN
-                           *** * *****:** :********:**.*:*. **: ****:**: * : * *: *:*  
+                           *** * *****:** :********:**.*:*. **: ****:**: * : * *: *:*
 
 sp|Q8Y557|PRSA2_LISMO      VKASYLESQLTTENMQKTLKKEYKDANVKVEDKDLKDAFKDFDGSSSSDSDSSK-
 sp|Q8Y759|PRSA1_LISMO      VKAAYIKSQLTSENMTAALKKELKAANIDIKDSDLKDAFADYTSTSSTSSTTTSN
-                           ***:*::****:***  :**** * **:.::*.****** *: .:**:.* ::. 
+                           ***:*::****:***  :**** * **:.::*.****** *: .:**:.* ::.
 ```
 
 The consensus line, positioned between the aligned sequences, summarizes how conserved each position is across the sequences succinctly.
