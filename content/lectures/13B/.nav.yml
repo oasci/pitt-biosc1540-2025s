@@ -1,2 +1,3 @@
 nav:
     - "Lecture 13B - Methodology": index.md
+    - "RDKit lightning tutorial": rdkit-tut.ipynb
