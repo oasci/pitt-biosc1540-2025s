@@ -11,7 +11,7 @@
     </object>
 </p>
 
-<!-- [Quiz](./quiz04.pdf) and [key](./quiz04-key.pdf) -->
+[Quiz](./quiz04.pdf) and [key](./quiz04-key.pdf)
 
 ## Lectures
 
